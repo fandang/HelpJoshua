@@ -1,7 +1,6 @@
 <html>
 <head>
 	<title>Joshua Workbook</title>
-	<script src="csv.js"></script>
 	<script src="papaparse.js"></script>
 
 	<script src="https://code.jquery.com/jquery-3.4.0.min.js"></script>
@@ -21,8 +20,8 @@
 
 	<style>
 		#mapid { 
-			width: 400px; 
-			height: 400px; 
+			width: 600px; 
+			height: 500px; 
 		}
 	</style>
 	<script>
@@ -54,6 +53,8 @@
 		]).addTo(mymap);
 	
 		//------------------
+		//var csvURL = "file:///_APPS_/HelpJoshua/src/web/AllPeoplesByCountry.csv";
+		//var csvURL = "AllPeoplesByCountry.csv";
 		var csvURL = "https://raw.githubusercontent.com/fandang/HelpJoshua/master/data/AllPeoplesByCountry.csv";
 
 
@@ -95,18 +96,19 @@
 		}
 
 		function successX(csv){
-// Parse CSV string
-//var data = Papa.parse(csv);
+			alert('successX');
+			// Parse CSV string
+			//var data = Papa.parse(csv);
 
-// Stream big file in worker thread
-Papa.parse(csv, {
-	worker: true,
-	step: function(results) {
-		console.log("Row:", results.data);
-	}
-});
-/*
-*/			
+			// Stream big file in worker thread
+			Papa.parse(csv, {
+				worker: true,
+				step: function(results) {
+					console.log("Row:", results.data);
+				}
+			});
+			/*
+			*/			
 		}
 
 		$.ajax({
