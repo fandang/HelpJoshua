@@ -1,0 +1,46 @@
+---
+title: "Query 1"
+author: "Dan Fanelli"
+date: "4/11/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Query 1
+
+select 
+    langPeopGeo.PeopleID3, peops.PeopName, 
+    langPeopGeo.ROG3, countries.Ctry, 
+    langPeopGeo.ROL3, langs.Language,
+    peopGeoRel.RLG3, rlg.PrimaryReligion, peopGeoRel.PercentAdherents, peopGeoRel.PercentEvangelical, peopGeoRel.PercentPracticing,
+    peopGeo.PopulationPercentUN, peopGeo.PopulationRounded
+from 
+    tblLnkPEOtoGEO peopGeo,
+    tbllnkLNGtoPEOGEO langPeopGeo, 
+    tblLnkPEOtoGEOReligions peopGeoRel,
+    tblPEO3PeopleGroups peops,
+    tblGEO3Countries countries,
+    tblLNG3Languages langs,
+    tblRLG3Religions rlg
+where peopGeo.PeopleID3 = langPeopGeo.PeopleID3
+and peopGeo.ROG3 = langPeopGeo.ROG3
+and langPeopGeo.PeopleID3 = peops.PeopleID3
+and langPeopGeo.ROG3 = countries.ROG3
+and langPeopGeo.ROL3 = langs.ROL3
+and peopGeoRel.PeopleID3 = langPeopGeo.PeopleID3
+and peopGeoRel.ROG3 = langPeopGeo.ROG3
+and peopGeoRel.RLG3 = rlg.RLG3
+and peopGeoRel.ROG3 = 'US'
+order by peopGeo.PopulationPercentUN desc
+
+```{r cars}
+library(knitr)
+library(sqldf)
+
+df <- read.csv(file="../../data/query_1/results.csv", header=TRUE, sep=",")
+kable(df)
+```
+

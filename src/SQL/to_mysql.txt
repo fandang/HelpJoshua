@@ -1,0 +1,3 @@
+chmod +x to_mysql.sh 
+
+./to_mysql.sh /_DATA_/JPHarvestField.mdb > /_DATA_/JPHarvestField.sql

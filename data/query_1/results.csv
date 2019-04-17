@@ -1,0 +1,1001 @@
+PeopleID3,PeopName,ROG3,Ctry,ROL3,Language,RLG3,PrimaryReligion,PercentAdherents,PercentEvangelical,PercentPracticing,PopulationPercentUN,PopulationRounded
+15741,"Americans, U.S.",US,"United States",eng,English,1,Christianity,81,33,NULL,57.2541,187088000
+15741,"Americans, U.S.",US,"United States",eng,English,1,Christianity,83,35,NULL,57.2541,187088000
+15741,"Americans, U.S.",US,"United States",eng,English,2,Buddhism,0,NULL,NULL,57.2541,187088000
+15741,"Americans, U.S.",US,"United States",eng,English,3,"Doubly Professing",0,NULL,NULL,57.2541,187088000
+15741,"Americans, U.S.",US,"United States",eng,English,4,"Ethnic Religions",0,NULL,NULL,57.2541,187088000
+15741,"Americans, U.S.",US,"United States",eng,English,5,Hinduism,0,NULL,NULL,57.2541,187088000
+15741,"Americans, U.S.",US,"United States",eng,English,6,Islam,0,NULL,NULL,57.2541,187088000
+15741,"Americans, U.S.",US,"United States",eng,English,7,Non-Religious,19,NULL,NULL,57.2541,187088000
+15741,"Americans, U.S.",US,"United States",eng,English,8,"Other / Small",0,NULL,NULL,57.2541,187088000
+15741,"Americans, U.S.",US,"United States",eng,English,9,Unknown,0,NULL,NULL,57.2541,187088000
+19530,African-Americans,US,"United States",eng,English,1,Christianity,85,35,NULL,12.0047,39228000
+19530,African-Americans,US,"United States",eng,English,1,Christianity,89,35,NULL,12.0047,39228000
+19530,African-Americans,US,"United States",eng,English,2,Buddhism,0,NULL,NULL,12.0047,39228000
+19530,African-Americans,US,"United States",eng,English,3,"Doubly Professing",0,NULL,NULL,12.0047,39228000
+19530,African-Americans,US,"United States",eng,English,4,"Ethnic Religions",0,NULL,NULL,12.0047,39228000
+19530,African-Americans,US,"United States",eng,English,5,Hinduism,0,NULL,NULL,12.0047,39228000
+19530,African-Americans,US,"United States",eng,English,6,Islam,4,NULL,NULL,12.0047,39228000
+19530,African-Americans,US,"United States",eng,English,7,Non-Religious,10,NULL,NULL,12.0047,39228000
+19530,African-Americans,US,"United States",eng,English,8,"Other / Small",1,NULL,NULL,12.0047,39228000
+19530,African-Americans,US,"United States",eng,English,9,Unknown,0,NULL,NULL,12.0047,39228000
+10291,"Americans, U.S., Spanish-Speaking",US,"United States",spa,Spanish,1,Christianity,80,20,NULL,6.91704,22603000
+10291,"Americans, U.S., Spanish-Speaking",US,"United States",spa,Spanish,1,Christianity,70,9,NULL,6.91704,22603000
+10291,"Americans, U.S., Spanish-Speaking",US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,6.91704,22603000
+10291,"Americans, U.S., Spanish-Speaking",US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,6.91704,22603000
+10291,"Americans, U.S., Spanish-Speaking",US,"United States",spa,Spanish,4,"Ethnic Religions",0,NULL,NULL,6.91704,22603000
+10291,"Americans, U.S., Spanish-Speaking",US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,6.91704,22603000
+10291,"Americans, U.S., Spanish-Speaking",US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,6.91704,22603000
+10291,"Americans, U.S., Spanish-Speaking",US,"United States",spa,Spanish,7,Non-Religious,19,NULL,NULL,6.91704,22603000
+10291,"Americans, U.S., Spanish-Speaking",US,"United States",spa,Spanish,8,"Other / Small",1,NULL,NULL,6.91704,22603000
+10291,"Americans, U.S., Spanish-Speaking",US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,6.91704,22603000
+12347,"Jew, English Speaking",US,"United States",eng,English,1,Christianity,2.7,1.6,NULL,1.59658,5217000
+12347,"Jew, English Speaking",US,"United States",eng,English,1,Christianity,4,1.6,NULL,1.59658,5217000
+12347,"Jew, English Speaking",US,"United States",eng,English,2,Buddhism,0,NULL,NULL,1.59658,5217000
+12347,"Jew, English Speaking",US,"United States",eng,English,3,"Doubly Professing",0,NULL,NULL,1.59658,5217000
+12347,"Jew, English Speaking",US,"United States",eng,English,4,"Ethnic Religions",82.3,NULL,NULL,1.59658,5217000
+12347,"Jew, English Speaking",US,"United States",eng,English,4,"Ethnic Religions",84,NULL,NULL,1.59658,5217000
+12347,"Jew, English Speaking",US,"United States",eng,English,5,Hinduism,0,NULL,NULL,1.59658,5217000
+12347,"Jew, English Speaking",US,"United States",eng,English,6,Islam,0,NULL,NULL,1.59658,5217000
+12347,"Jew, English Speaking",US,"United States",eng,English,7,Non-Religious,15,NULL,NULL,1.59658,5217000
+12347,"Jew, English Speaking",US,"United States",eng,English,7,Non-Religious,12,NULL,NULL,1.59658,5217000
+12347,"Jew, English Speaking",US,"United States",eng,English,8,"Other / Small",0,NULL,NULL,1.59658,5217000
+12347,"Jew, English Speaking",US,"United States",eng,English,9,Unknown,0,NULL,NULL,1.59658,5217000
+13116,"Louisiana Creole French",US,"United States",lou,"Louisiana Creole",1,Christianity,90,4,NULL,1.39699,4565000
+13116,"Louisiana Creole French",US,"United States",lou,"Louisiana Creole",1,Christianity,90,NULL,NULL,1.39699,4565000
+13116,"Louisiana Creole French",US,"United States",lou,"Louisiana Creole",2,Buddhism,0,NULL,NULL,1.39699,4565000
+13116,"Louisiana Creole French",US,"United States",lou,"Louisiana Creole",3,"Doubly Professing",0,NULL,NULL,1.39699,4565000
+13116,"Louisiana Creole French",US,"United States",lou,"Louisiana Creole",4,"Ethnic Religions",0,NULL,NULL,1.39699,4565000
+13116,"Louisiana Creole French",US,"United States",lou,"Louisiana Creole",5,Hinduism,0,NULL,NULL,1.39699,4565000
+13116,"Louisiana Creole French",US,"United States",lou,"Louisiana Creole",6,Islam,0,NULL,NULL,1.39699,4565000
+13116,"Louisiana Creole French",US,"United States",lou,"Louisiana Creole",7,Non-Religious,10,NULL,NULL,1.39699,4565000
+13116,"Louisiana Creole French",US,"United States",lou,"Louisiana Creole",8,"Other / Small",0,NULL,NULL,1.39699,4565000
+13116,"Louisiana Creole French",US,"United States",lou,"Louisiana Creole",9,Unknown,0,NULL,NULL,1.39699,4565000
+19006,"Native Criollo, Mestizo",US,"United States",spa,Spanish,1,Christianity,95,20,NULL,1.24731,4076000
+19006,"Native Criollo, Mestizo",US,"United States",spa,Spanish,1,Christianity,95,NULL,NULL,1.24731,4076000
+19006,"Native Criollo, Mestizo",US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,1.24731,4076000
+19006,"Native Criollo, Mestizo",US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,1.24731,4076000
+19006,"Native Criollo, Mestizo",US,"United States",spa,Spanish,4,"Ethnic Religions",0,NULL,NULL,1.24731,4076000
+19006,"Native Criollo, Mestizo",US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,1.24731,4076000
+19006,"Native Criollo, Mestizo",US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,1.24731,4076000
+19006,"Native Criollo, Mestizo",US,"United States",spa,Spanish,7,Non-Religious,5,NULL,NULL,1.24731,4076000
+19006,"Native Criollo, Mestizo",US,"United States",spa,Spanish,8,"Other / Small",0,NULL,NULL,1.24731,4076000
+19006,"Native Criollo, Mestizo",US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,1.24731,4076000
+14467,"Puerto Ricans, White",US,"United States",spa,Spanish,1,Christianity,95,25.2,NULL,1.19742,3913000
+14467,"Puerto Ricans, White",US,"United States",spa,Spanish,1,Christianity,96,27.6,NULL,1.19742,3913000
+14467,"Puerto Ricans, White",US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,1.19742,3913000
+14467,"Puerto Ricans, White",US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,1.19742,3913000
+14467,"Puerto Ricans, White",US,"United States",spa,Spanish,4,"Ethnic Religions",0,NULL,NULL,1.19742,3913000
+14467,"Puerto Ricans, White",US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,1.19742,3913000
+14467,"Puerto Ricans, White",US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,1.19742,3913000
+14467,"Puerto Ricans, White",US,"United States",spa,Spanish,7,Non-Religious,5,NULL,NULL,1.19742,3913000
+14467,"Puerto Ricans, White",US,"United States",spa,Spanish,8,"Other / Small",0,NULL,NULL,1.19742,3913000
+14467,"Puerto Ricans, White",US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,1.19742,3913000
+13017,"Arab, Lebanese",US,"United States",apc,"Arabic, North Levantine Spoken",1,Christianity,32,0.5,NULL,1.09763,3587000
+13017,"Arab, Lebanese",US,"United States",apc,"Arabic, North Levantine Spoken",1,Christianity,60,NULL,NULL,1.09763,3587000
+13017,"Arab, Lebanese",US,"United States",apc,"Arabic, North Levantine Spoken",2,Buddhism,0,NULL,NULL,1.09763,3587000
+13017,"Arab, Lebanese",US,"United States",apc,"Arabic, North Levantine Spoken",3,"Doubly Professing",0,NULL,NULL,1.09763,3587000
+13017,"Arab, Lebanese",US,"United States",apc,"Arabic, North Levantine Spoken",4,"Ethnic Religions",0,NULL,NULL,1.09763,3587000
+13017,"Arab, Lebanese",US,"United States",apc,"Arabic, North Levantine Spoken",5,Hinduism,0,NULL,NULL,1.09763,3587000
+13017,"Arab, Lebanese",US,"United States",apc,"Arabic, North Levantine Spoken",6,Islam,59,NULL,NULL,1.09763,3587000
+13017,"Arab, Lebanese",US,"United States",apc,"Arabic, North Levantine Spoken",7,Non-Religious,2,NULL,NULL,1.09763,3587000
+13017,"Arab, Lebanese",US,"United States",apc,"Arabic, North Levantine Spoken",8,"Other / Small",7,NULL,NULL,1.09763,3587000
+13017,"Arab, Lebanese",US,"United States",apc,"Arabic, North Levantine Spoken",9,Unknown,0,NULL,NULL,1.09763,3587000
+12256,Irish,US,"United States",eng,English,1,Christianity,92,1.5,NULL,0.990657,3237000
+12256,Irish,US,"United States",eng,English,1,Christianity,88,NULL,NULL,0.990657,3237000
+12256,Irish,US,"United States",eng,English,2,Buddhism,0,NULL,NULL,0.990657,3237000
+12256,Irish,US,"United States",eng,English,3,"Doubly Professing",0,NULL,NULL,0.990657,3237000
+12256,Irish,US,"United States",eng,English,4,"Ethnic Religions",0,NULL,NULL,0.990657,3237000
+12256,Irish,US,"United States",eng,English,5,Hinduism,0,NULL,NULL,0.990657,3237000
+12256,Irish,US,"United States",eng,English,6,Islam,0,NULL,NULL,0.990657,3237000
+12256,Irish,US,"United States",eng,English,7,Non-Religious,8,NULL,NULL,0.990657,3237000
+12256,Irish,US,"United States",eng,English,8,"Other / Small",0,NULL,NULL,0.990657,3237000
+12256,Irish,US,"United States",eng,English,9,Unknown,0,NULL,NULL,0.990657,3237000
+15008,"South American, Mestizo",US,"United States",spa,Spanish,1,Christianity,95,19,NULL,0.898063,2935000
+15008,"South American, Mestizo",US,"United States",spa,Spanish,1,Christianity,90,NULL,NULL,0.898063,2935000
+15008,"South American, Mestizo",US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,0.898063,2935000
+15008,"South American, Mestizo",US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,0.898063,2935000
+15008,"South American, Mestizo",US,"United States",spa,Spanish,4,"Ethnic Religions",0,NULL,NULL,0.898063,2935000
+15008,"South American, Mestizo",US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,0.898063,2935000
+15008,"South American, Mestizo",US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,0.898063,2935000
+15008,"South American, Mestizo",US,"United States",spa,Spanish,7,Non-Religious,5,NULL,NULL,0.898063,2935000
+15008,"South American, Mestizo",US,"United States",spa,Spanish,8,"Other / Small",0,NULL,NULL,0.898063,2935000
+15008,"South American, Mestizo",US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,0.898063,2935000
+11765,French-Canadian,US,"United States",fra,French,1,Christianity,65,0.8,NULL,0.863209,2821000
+11765,French-Canadian,US,"United States",fra,French,1,Christianity,75,0.8,NULL,0.863209,2821000
+11765,French-Canadian,US,"United States",fra,French,2,Buddhism,0,NULL,NULL,0.863209,2821000
+11765,French-Canadian,US,"United States",fra,French,3,"Doubly Professing",0,NULL,NULL,0.863209,2821000
+11765,French-Canadian,US,"United States",fra,French,4,"Ethnic Religions",0,NULL,NULL,0.863209,2821000
+11765,French-Canadian,US,"United States",fra,French,5,Hinduism,0,NULL,NULL,0.863209,2821000
+11765,French-Canadian,US,"United States",fra,French,6,Islam,0,NULL,NULL,0.863209,2821000
+11765,French-Canadian,US,"United States",fra,French,7,Non-Religious,35,NULL,NULL,0.863209,2821000
+11765,French-Canadian,US,"United States",fra,French,8,"Other / Small",0,NULL,NULL,0.863209,2821000
+11765,French-Canadian,US,"United States",fra,French,9,Unknown,0,NULL,NULL,0.863209,2821000
+15175,"Filipino, Tagalog",US,"United States",tgl,Tagalog,1,Christianity,92,12.3,NULL,0.822488,2688000
+15175,"Filipino, Tagalog",US,"United States",tgl,Tagalog,1,Christianity,98,15,NULL,0.822488,2688000
+15175,"Filipino, Tagalog",US,"United States",tgl,Tagalog,2,Buddhism,0,NULL,NULL,0.822488,2688000
+15175,"Filipino, Tagalog",US,"United States",tgl,Tagalog,3,"Doubly Professing",0,NULL,NULL,0.822488,2688000
+15175,"Filipino, Tagalog",US,"United States",tgl,Tagalog,4,"Ethnic Religions",0,NULL,NULL,0.822488,2688000
+15175,"Filipino, Tagalog",US,"United States",tgl,Tagalog,5,Hinduism,0,NULL,NULL,0.822488,2688000
+15175,"Filipino, Tagalog",US,"United States",tgl,Tagalog,6,Islam,0,NULL,NULL,0.822488,2688000
+15175,"Filipino, Tagalog",US,"United States",tgl,Tagalog,7,Non-Religious,7,NULL,NULL,0.822488,2688000
+15175,"Filipino, Tagalog",US,"United States",tgl,Tagalog,8,"Other / Small",1,NULL,NULL,0.822488,2688000
+15175,"Filipino, Tagalog",US,"United States",tgl,Tagalog,9,Unknown,0,NULL,NULL,0.822488,2688000
+19206,"Chinese, general",US,"United States",cmn,"Chinese, Mandarin",1,Christianity,10,5.7,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",cmn,"Chinese, Mandarin",1,Christianity,20,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",cmn,"Chinese, Mandarin",2,Buddhism,12,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",cmn,"Chinese, Mandarin",2,Buddhism,25,NULL,10,0.566965,1853000
+19206,"Chinese, general",US,"United States",cmn,"Chinese, Mandarin",3,"Doubly Professing",0,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",cmn,"Chinese, Mandarin",4,"Ethnic Religions",32,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",cmn,"Chinese, Mandarin",5,Hinduism,0,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",cmn,"Chinese, Mandarin",6,Islam,2,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",cmn,"Chinese, Mandarin",7,Non-Religious,44,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",cmn,"Chinese, Mandarin",7,Non-Religious,NULL,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",cmn,"Chinese, Mandarin",8,"Other / Small",0,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",cmn,"Chinese, Mandarin",9,Unknown,0,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",eng,English,1,Christianity,10,5.7,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",eng,English,1,Christianity,20,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",eng,English,2,Buddhism,12,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",eng,English,2,Buddhism,25,NULL,10,0.566965,1853000
+19206,"Chinese, general",US,"United States",eng,English,3,"Doubly Professing",0,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",eng,English,4,"Ethnic Religions",32,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",eng,English,5,Hinduism,0,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",eng,English,6,Islam,2,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",eng,English,7,Non-Religious,44,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",eng,English,7,Non-Religious,NULL,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",eng,English,8,"Other / Small",0,NULL,NULL,0.566965,1853000
+19206,"Chinese, general",US,"United States",eng,English,9,Unknown,0,NULL,NULL,0.566965,1853000
+11234,French,US,"United States",fra,French,1,Christianity,61,1,NULL,0.551323,1802000
+11234,French,US,"United States",fra,French,1,Christianity,75,0.5,NULL,0.551323,1802000
+11234,French,US,"United States",fra,French,2,Buddhism,0,NULL,NULL,0.551323,1802000
+11234,French,US,"United States",fra,French,3,"Doubly Professing",0,NULL,NULL,0.551323,1802000
+11234,French,US,"United States",fra,French,4,"Ethnic Religions",0,NULL,NULL,0.551323,1802000
+11234,French,US,"United States",fra,French,5,Hinduism,0,NULL,NULL,0.551323,1802000
+11234,French,US,"United States",fra,French,6,Islam,0,NULL,NULL,0.551323,1802000
+11234,French,US,"United States",fra,French,7,Non-Religious,39,NULL,NULL,0.551323,1802000
+11234,French,US,"United States",fra,French,8,"Other / Small",0,NULL,NULL,0.551323,1802000
+11234,French,US,"United States",fra,French,9,Unknown,0,NULL,NULL,0.551323,1802000
+11440,Cuban,US,"United States",spa,Spanish,1,Christianity,57,8.8,NULL,0.530656,1734000
+11440,Cuban,US,"United States",spa,Spanish,1,Christianity,47,4.6,NULL,0.530656,1734000
+11440,Cuban,US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,0.530656,1734000
+11440,Cuban,US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,0.530656,1734000
+11440,Cuban,US,"United States",spa,Spanish,4,"Ethnic Religions",18,NULL,NULL,0.530656,1734000
+11440,Cuban,US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,0.530656,1734000
+11440,Cuban,US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,0.530656,1734000
+11440,Cuban,US,"United States",spa,Spanish,7,Non-Religious,25,NULL,NULL,0.530656,1734000
+11440,Cuban,US,"United States",spa,Spanish,8,"Other / Small",0,NULL,NULL,0.530656,1734000
+11440,Cuban,US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,0.530656,1734000
+12700,Vietnamese,US,"United States",vie,Vietnamese,1,Christianity,9,1.8,NULL,0.502598,1642000
+12700,Vietnamese,US,"United States",vie,Vietnamese,1,Christianity,20,2,NULL,0.502598,1642000
+12700,Vietnamese,US,"United States",vie,Vietnamese,2,Buddhism,53,NULL,NULL,0.502598,1642000
+12700,Vietnamese,US,"United States",vie,Vietnamese,2,Buddhism,65,NULL,35,0.502598,1642000
+12700,Vietnamese,US,"United States",vie,Vietnamese,3,"Doubly Professing",0,NULL,NULL,0.502598,1642000
+12700,Vietnamese,US,"United States",vie,Vietnamese,4,"Ethnic Religions",9,NULL,NULL,0.502598,1642000
+12700,Vietnamese,US,"United States",vie,Vietnamese,5,Hinduism,0,NULL,NULL,0.502598,1642000
+12700,Vietnamese,US,"United States",vie,Vietnamese,6,Islam,0,NULL,NULL,0.502598,1642000
+12700,Vietnamese,US,"United States",vie,Vietnamese,7,Non-Religious,23,NULL,NULL,0.502598,1642000
+12700,Vietnamese,US,"United States",vie,Vietnamese,8,"Other / Small",6,NULL,NULL,0.502598,1642000
+12700,Vietnamese,US,"United States",vie,Vietnamese,9,Unknown,0,NULL,NULL,0.502598,1642000
+11871,German,US,"United States",deu,"German, Standard",1,Christianity,64,2.1,NULL,0.477447,1560000
+11871,German,US,"United States",deu,"German, Standard",1,Christianity,78,3.8,NULL,0.477447,1560000
+11871,German,US,"United States",deu,"German, Standard",2,Buddhism,0,NULL,NULL,0.477447,1560000
+11871,German,US,"United States",deu,"German, Standard",3,"Doubly Professing",0,NULL,NULL,0.477447,1560000
+11871,German,US,"United States",deu,"German, Standard",4,"Ethnic Religions",0,NULL,NULL,0.477447,1560000
+11871,German,US,"United States",deu,"German, Standard",5,Hinduism,0,NULL,NULL,0.477447,1560000
+11871,German,US,"United States",deu,"German, Standard",6,Islam,0,NULL,NULL,0.477447,1560000
+11871,German,US,"United States",deu,"German, Standard",7,Non-Religious,36,NULL,NULL,0.477447,1560000
+11871,German,US,"United States",deu,"German, Standard",8,"Other / Small",0,NULL,NULL,0.477447,1560000
+11871,German,US,"United States",deu,"German, Standard",9,Unknown,0,NULL,NULL,0.477447,1560000
+12795,Korean,US,"United States",kor,Korean,1,Christianity,35,16.8,NULL,0.456163,1491000
+12795,Korean,US,"United States",kor,Korean,1,Christianity,70,NULL,NULL,0.456163,1491000
+12795,Korean,US,"United States",kor,Korean,2,Buddhism,21,NULL,NULL,0.456163,1491000
+12795,Korean,US,"United States",kor,Korean,2,Buddhism,25,NULL,15,0.456163,1491000
+12795,Korean,US,"United States",kor,Korean,3,"Doubly Professing",0,NULL,NULL,0.456163,1491000
+12795,Korean,US,"United States",kor,Korean,4,"Ethnic Religions",9,NULL,NULL,0.456163,1491000
+12795,Korean,US,"United States",kor,Korean,5,Hinduism,0,NULL,NULL,0.456163,1491000
+12795,Korean,US,"United States",kor,Korean,6,Islam,0,NULL,NULL,0.456163,1491000
+12795,Korean,US,"United States",kor,Korean,7,Non-Religious,31,NULL,NULL,0.456163,1491000
+12795,Korean,US,"United States",kor,Korean,8,"Other / Small",4,NULL,NULL,0.456163,1491000
+12795,Korean,US,"United States",kor,Korean,9,Unknown,0,NULL,NULL,0.456163,1491000
+11600,Dominicans,US,"United States",spa,Spanish,1,Christianity,94,9.1,NULL,0.43576,1424000
+11600,Dominicans,US,"United States",spa,Spanish,1,Christianity,96,7.6,NULL,0.43576,1424000
+11600,Dominicans,US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,0.43576,1424000
+11600,Dominicans,US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,0.43576,1424000
+11600,Dominicans,US,"United States",spa,Spanish,4,"Ethnic Religions",2,NULL,NULL,0.43576,1424000
+11600,Dominicans,US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,0.43576,1424000
+11600,Dominicans,US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,0.43576,1424000
+11600,Dominicans,US,"United States",spa,Spanish,7,Non-Religious,4,NULL,NULL,0.43576,1424000
+11600,Dominicans,US,"United States",spa,Spanish,8,"Other / Small",0,NULL,NULL,0.43576,1424000
+11600,Dominicans,US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,0.43576,1424000
+10328,Anglo-Canadian,US,"United States",eng,English,1,Christianity,72,7.7,NULL,0.396262,1295000
+10328,Anglo-Canadian,US,"United States",eng,English,1,Christianity,75,NULL,NULL,0.396262,1295000
+10328,Anglo-Canadian,US,"United States",eng,English,2,Buddhism,0,NULL,NULL,0.396262,1295000
+10328,Anglo-Canadian,US,"United States",eng,English,3,"Doubly Professing",0,NULL,NULL,0.396262,1295000
+10328,Anglo-Canadian,US,"United States",eng,English,4,"Ethnic Religions",0,NULL,NULL,0.396262,1295000
+10328,Anglo-Canadian,US,"United States",eng,English,5,Hinduism,0,NULL,NULL,0.396262,1295000
+10328,Anglo-Canadian,US,"United States",eng,English,6,Islam,0,NULL,NULL,0.396262,1295000
+10328,Anglo-Canadian,US,"United States",eng,English,7,Non-Religious,26,NULL,NULL,0.396262,1295000
+10328,Anglo-Canadian,US,"United States",eng,English,8,"Other / Small",2,NULL,NULL,0.396262,1295000
+10328,Anglo-Canadian,US,"United States",eng,English,9,Unknown,0,NULL,NULL,0.396262,1295000
+10491,"Austrian, Bavarian",US,"United States",bar,Bavarian,1,Christianity,83,0.5,NULL,0.344461,1126000
+10491,"Austrian, Bavarian",US,"United States",bar,Bavarian,1,Christianity,89,NULL,NULL,0.344461,1126000
+10491,"Austrian, Bavarian",US,"United States",bar,Bavarian,2,Buddhism,0,NULL,NULL,0.344461,1126000
+10491,"Austrian, Bavarian",US,"United States",bar,Bavarian,3,"Doubly Professing",0,NULL,NULL,0.344461,1126000
+10491,"Austrian, Bavarian",US,"United States",bar,Bavarian,4,"Ethnic Religions",0,NULL,NULL,0.344461,1126000
+10491,"Austrian, Bavarian",US,"United States",bar,Bavarian,5,Hinduism,0,NULL,NULL,0.344461,1126000
+10491,"Austrian, Bavarian",US,"United States",bar,Bavarian,6,Islam,0,NULL,NULL,0.344461,1126000
+10491,"Austrian, Bavarian",US,"United States",bar,Bavarian,7,Non-Religious,17,NULL,NULL,0.344461,1126000
+10491,"Austrian, Bavarian",US,"United States",bar,Bavarian,8,"Other / Small",0,NULL,NULL,0.344461,1126000
+10491,"Austrian, Bavarian",US,"United States",bar,Bavarian,9,Unknown,0,NULL,NULL,0.344461,1126000
+12273,Italian,US,"United States",ita,Italian,1,Christianity,82,1.1,NULL,0.340488,1113000
+12273,Italian,US,"United States",ita,Italian,1,Christianity,83,NULL,NULL,0.340488,1113000
+12273,Italian,US,"United States",ita,Italian,2,Buddhism,0,NULL,NULL,0.340488,1113000
+12273,Italian,US,"United States",ita,Italian,3,"Doubly Professing",0,NULL,NULL,0.340488,1113000
+12273,Italian,US,"United States",ita,Italian,4,"Ethnic Religions",0,NULL,NULL,0.340488,1113000
+12273,Italian,US,"United States",ita,Italian,5,Hinduism,0,NULL,NULL,0.340488,1113000
+12273,Italian,US,"United States",ita,Italian,6,Islam,0,NULL,NULL,0.340488,1113000
+12273,Italian,US,"United States",ita,Italian,7,Non-Religious,18,NULL,NULL,0.340488,1113000
+12273,Italian,US,"United States",ita,Italian,8,"Other / Small",0,NULL,NULL,0.340488,1113000
+12273,Italian,US,"United States",ita,Italian,9,Unknown,0,NULL,NULL,0.340488,1113000
+12035,Haitian,US,"United States",hat,"Haitian Creole",1,Christianity,95,16,NULL,0.307104,1004000
+12035,Haitian,US,"United States",hat,"Haitian Creole",1,Christianity,90,NULL,NULL,0.307104,1004000
+12035,Haitian,US,"United States",hat,"Haitian Creole",2,Buddhism,0,NULL,NULL,0.307104,1004000
+12035,Haitian,US,"United States",hat,"Haitian Creole",3,"Doubly Professing",0,NULL,NULL,0.307104,1004000
+12035,Haitian,US,"United States",hat,"Haitian Creole",4,"Ethnic Religions",3,NULL,NULL,0.307104,1004000
+12035,Haitian,US,"United States",hat,"Haitian Creole",5,Hinduism,0,NULL,NULL,0.307104,1004000
+12035,Haitian,US,"United States",hat,"Haitian Creole",6,Islam,0,NULL,NULL,0.307104,1004000
+12035,Haitian,US,"United States",hat,"Haitian Creole",7,Non-Religious,2,NULL,NULL,0.307104,1004000
+12035,Haitian,US,"United States",hat,"Haitian Creole",8,"Other / Small",0,NULL,NULL,0.307104,1004000
+12035,Haitian,US,"United States",hat,"Haitian Creole",9,Unknown,0,NULL,NULL,0.307104,1004000
+20297,"Colombian, Mestizo",US,"United States",spa,Spanish,1,Christianity,96,7,NULL,0.292917,957000
+20297,"Colombian, Mestizo",US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,0.292917,957000
+20297,"Colombian, Mestizo",US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,0.292917,957000
+20297,"Colombian, Mestizo",US,"United States",spa,Spanish,4,"Ethnic Religions",0,NULL,NULL,0.292917,957000
+20297,"Colombian, Mestizo",US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,0.292917,957000
+20297,"Colombian, Mestizo",US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,0.292917,957000
+20297,"Colombian, Mestizo",US,"United States",spa,Spanish,7,Non-Religious,4,NULL,NULL,0.292917,957000
+20297,"Colombian, Mestizo",US,"United States",spa,Spanish,8,"Other / Small",0,NULL,NULL,0.292917,957000
+20297,"Colombian, Mestizo",US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,0.292917,957000
+14667,Salvadorians,US,"United States",spa,Spanish,1,Christianity,95,26,NULL,0.291018,951000
+14667,Salvadorians,US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,0.291018,951000
+14667,Salvadorians,US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,0.291018,951000
+14667,Salvadorians,US,"United States",spa,Spanish,4,"Ethnic Religions",0,NULL,NULL,0.291018,951000
+14667,Salvadorians,US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,0.291018,951000
+14667,Salvadorians,US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,0.291018,951000
+14667,Salvadorians,US,"United States",spa,Spanish,7,Non-Religious,5,NULL,NULL,0.291018,951000
+14667,Salvadorians,US,"United States",spa,Spanish,8,"Other / Small",0,NULL,NULL,0.291018,951000
+14667,Salvadorians,US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,0.291018,951000
+12322,Japanese,US,"United States",jpn,Japanese,1,Christianity,1.5,0.5,NULL,0.2536,829000
+12322,Japanese,US,"United States",jpn,Japanese,1,Christianity,23,NULL,NULL,0.2536,829000
+12322,Japanese,US,"United States",jpn,Japanese,2,Buddhism,69.5,NULL,NULL,0.2536,829000
+12322,Japanese,US,"United States",jpn,Japanese,2,Buddhism,70,NULL,20,0.2536,829000
+12322,Japanese,US,"United States",jpn,Japanese,3,"Doubly Professing",0,NULL,NULL,0.2536,829000
+12322,Japanese,US,"United States",jpn,Japanese,4,"Ethnic Religions",0,NULL,NULL,0.2536,829000
+12322,Japanese,US,"United States",jpn,Japanese,5,Hinduism,0,NULL,NULL,0.2536,829000
+12322,Japanese,US,"United States",jpn,Japanese,6,Islam,0,NULL,NULL,0.2536,829000
+12322,Japanese,US,"United States",jpn,Japanese,7,Non-Religious,5,NULL,NULL,0.2536,829000
+12322,Japanese,US,"United States",jpn,Japanese,8,"Other / Small",24,NULL,NULL,0.2536,829000
+12322,Japanese,US,"United States",jpn,Japanese,9,Unknown,0,NULL,NULL,0.2536,829000
+11065,Belarusian,US,"United States",bel,Belarusian,1,Christianity,71,1.3,NULL,0.239483,783000
+11065,Belarusian,US,"United States",bel,Belarusian,1,Christianity,66,NULL,NULL,0.239483,783000
+11065,Belarusian,US,"United States",bel,Belarusian,2,Buddhism,0,NULL,NULL,0.239483,783000
+11065,Belarusian,US,"United States",bel,Belarusian,3,"Doubly Professing",0,NULL,NULL,0.239483,783000
+11065,Belarusian,US,"United States",bel,Belarusian,4,"Ethnic Religions",0,NULL,NULL,0.239483,783000
+11065,Belarusian,US,"United States",bel,Belarusian,5,Hinduism,0,NULL,NULL,0.239483,783000
+11065,Belarusian,US,"United States",bel,Belarusian,6,Islam,0,NULL,NULL,0.239483,783000
+11065,Belarusian,US,"United States",bel,Belarusian,7,Non-Religious,29,NULL,NULL,0.239483,783000
+11065,Belarusian,US,"United States",bel,Belarusian,8,"Other / Small",0,NULL,NULL,0.239483,783000
+11065,Belarusian,US,"United States",bel,Belarusian,9,Unknown,0,NULL,NULL,0.239483,783000
+14598,Russian,US,"United States",rus,Russian,1,Christianity,67,1.2,NULL,0.23763,776000
+14598,Russian,US,"United States",rus,Russian,1,Christianity,78,NULL,NULL,0.23763,776000
+14598,Russian,US,"United States",rus,Russian,2,Buddhism,0,NULL,NULL,0.23763,776000
+14598,Russian,US,"United States",rus,Russian,3,"Doubly Professing",0,NULL,NULL,0.23763,776000
+14598,Russian,US,"United States",rus,Russian,4,"Ethnic Religions",0,NULL,NULL,0.23763,776000
+14598,Russian,US,"United States",rus,Russian,5,Hinduism,0,NULL,NULL,0.23763,776000
+14598,Russian,US,"United States",rus,Russian,6,Islam,0,NULL,NULL,0.23763,776000
+14598,Russian,US,"United States",rus,Russian,7,Non-Religious,33,NULL,NULL,0.23763,776000
+14598,Russian,US,"United States",rus,Russian,8,"Other / Small",0,NULL,NULL,0.23763,776000
+14598,Russian,US,"United States",rus,Russian,9,Unknown,0,NULL,NULL,0.23763,776000
+14431,Polish,US,"United States",pol,Polish,1,Christianity,90,0.3,NULL,0.224982,735000
+14431,Polish,US,"United States",pol,Polish,1,Christianity,86,NULL,NULL,0.224982,735000
+14431,Polish,US,"United States",pol,Polish,2,Buddhism,0,NULL,NULL,0.224982,735000
+14431,Polish,US,"United States",pol,Polish,3,"Doubly Professing",0,NULL,NULL,0.224982,735000
+14431,Polish,US,"United States",pol,Polish,4,"Ethnic Religions",0,NULL,NULL,0.224982,735000
+14431,Polish,US,"United States",pol,Polish,5,Hinduism,0,NULL,NULL,0.224982,735000
+14431,Polish,US,"United States",pol,Polish,6,Islam,0,NULL,NULL,0.224982,735000
+14431,Polish,US,"United States",pol,Polish,7,Non-Religious,10,NULL,NULL,0.224982,735000
+14431,Polish,US,"United States",pol,Polish,8,"Other / Small",0,NULL,NULL,0.224982,735000
+14431,Polish,US,"United States",pol,Polish,9,Unknown,0,NULL,NULL,0.224982,735000
+11140,British,US,"United States",eng,English,1,Christianity,60,9,NULL,0.224743,734000
+11140,British,US,"United States",eng,English,1,Christianity,70,NULL,NULL,0.224743,734000
+11140,British,US,"United States",eng,English,2,Buddhism,0,NULL,NULL,0.224743,734000
+11140,British,US,"United States",eng,English,3,"Doubly Professing",0,NULL,NULL,0.224743,734000
+11140,British,US,"United States",eng,English,4,"Ethnic Religions",0,NULL,NULL,0.224743,734000
+11140,British,US,"United States",eng,English,5,Hinduism,0,NULL,NULL,0.224743,734000
+11140,British,US,"United States",eng,English,6,Islam,0,NULL,NULL,0.224743,734000
+11140,British,US,"United States",eng,English,7,Non-Religious,40,NULL,NULL,0.224743,734000
+11140,British,US,"United States",eng,English,8,"Other / Small",0,NULL,NULL,0.224743,734000
+11140,British,US,"United States",eng,English,9,Unknown,0,NULL,NULL,0.224743,734000
+15077,Spaniard,US,"United States",spa,Spanish,1,Christianity,77,1,NULL,0.205257,671000
+15077,Spaniard,US,"United States",spa,Spanish,1,Christianity,95,NULL,NULL,0.205257,671000
+15077,Spaniard,US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,0.205257,671000
+15077,Spaniard,US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,0.205257,671000
+15077,Spaniard,US,"United States",spa,Spanish,4,"Ethnic Religions",0,NULL,NULL,0.205257,671000
+15077,Spaniard,US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,0.205257,671000
+15077,Spaniard,US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,0.205257,671000
+15077,Spaniard,US,"United States",spa,Spanish,7,Non-Religious,23,NULL,NULL,0.205257,671000
+15077,Spaniard,US,"United States",spa,Spanish,8,"Other / Small",0,NULL,NULL,0.205257,671000
+15077,Spaniard,US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,0.205257,671000
+19007,Deaf,US,"United States",ase,"American Sign Language",1,Christianity,77.62,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",ase,"American Sign Language",2,Buddhism,0,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",ase,"American Sign Language",3,"Doubly Professing",0,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",ase,"American Sign Language",4,"Ethnic Religions",2.86,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",ase,"American Sign Language",5,Hinduism,0.42,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",ase,"American Sign Language",6,Islam,1.63,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",ase,"American Sign Language",7,Non-Religious,16.5,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",ase,"American Sign Language",8,"Other / Small",0.97,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",ase,"American Sign Language",9,Unknown,0,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",hps,"Hawaii Sign Language",1,Christianity,77.62,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",hps,"Hawaii Sign Language",2,Buddhism,0,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",hps,"Hawaii Sign Language",3,"Doubly Professing",0,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",hps,"Hawaii Sign Language",4,"Ethnic Religions",2.86,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",hps,"Hawaii Sign Language",5,Hinduism,0.42,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",hps,"Hawaii Sign Language",6,Islam,1.63,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",hps,"Hawaii Sign Language",7,Non-Religious,16.5,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",hps,"Hawaii Sign Language",8,"Other / Small",0.97,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",hps,"Hawaii Sign Language",9,Unknown,0,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",psd,"Plains Indian Sign Language",1,Christianity,77.62,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",psd,"Plains Indian Sign Language",2,Buddhism,0,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",psd,"Plains Indian Sign Language",3,"Doubly Professing",0,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",psd,"Plains Indian Sign Language",4,"Ethnic Religions",2.86,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",psd,"Plains Indian Sign Language",5,Hinduism,0.42,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",psd,"Plains Indian Sign Language",6,Islam,1.63,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",psd,"Plains Indian Sign Language",7,Non-Religious,16.5,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",psd,"Plains Indian Sign Language",8,"Other / Small",0.97,NULL,NULL,0.2,654000
+19007,Deaf,US,"United States",psd,"Plains Indian Sign Language",9,Unknown,0,NULL,NULL,0.2,654000
+14449,Portuguese,US,"United States",por,Portuguese,1,Christianity,94,3,NULL,0.189592,620000
+14449,Portuguese,US,"United States",por,Portuguese,1,Christianity,93,4,NULL,0.189592,620000
+14449,Portuguese,US,"United States",por,Portuguese,2,Buddhism,0,NULL,NULL,0.189592,620000
+14449,Portuguese,US,"United States",por,Portuguese,3,"Doubly Professing",0,NULL,NULL,0.189592,620000
+14449,Portuguese,US,"United States",por,Portuguese,4,"Ethnic Religions",0,NULL,NULL,0.189592,620000
+14449,Portuguese,US,"United States",por,Portuguese,5,Hinduism,0,NULL,NULL,0.189592,620000
+14449,Portuguese,US,"United States",por,Portuguese,6,Islam,0,NULL,NULL,0.189592,620000
+14449,Portuguese,US,"United States",por,Portuguese,7,Non-Religious,6,NULL,NULL,0.189592,620000
+14449,Portuguese,US,"United States",por,Portuguese,8,"Other / Small",0,NULL,NULL,0.189592,620000
+14449,Portuguese,US,"United States",por,Portuguese,9,Unknown,0,NULL,NULL,0.189592,620000
+12072,"Hawai'i, Creole-Speaking",US,"United States",hwc,"Hawai'i Pidgin",1,Christianity,70,5,NULL,0.185536,606000
+12072,"Hawai'i, Creole-Speaking",US,"United States",hwc,"Hawai'i Pidgin",1,Christianity,90,NULL,NULL,0.185536,606000
+12072,"Hawai'i, Creole-Speaking",US,"United States",hwc,"Hawai'i Pidgin",2,Buddhism,4.9999,NULL,NULL,0.185536,606000
+12072,"Hawai'i, Creole-Speaking",US,"United States",hwc,"Hawai'i Pidgin",3,"Doubly Professing",0,NULL,NULL,0.185536,606000
+12072,"Hawai'i, Creole-Speaking",US,"United States",hwc,"Hawai'i Pidgin",4,"Ethnic Religions",20,NULL,NULL,0.185536,606000
+12072,"Hawai'i, Creole-Speaking",US,"United States",hwc,"Hawai'i Pidgin",5,Hinduism,0,NULL,NULL,0.185536,606000
+12072,"Hawai'i, Creole-Speaking",US,"United States",hwc,"Hawai'i Pidgin",6,Islam,0,NULL,NULL,0.185536,606000
+12072,"Hawai'i, Creole-Speaking",US,"United States",hwc,"Hawai'i Pidgin",7,Non-Religious,5,NULL,NULL,0.185536,606000
+12072,"Hawai'i, Creole-Speaking",US,"United States",hwc,"Hawai'i Pidgin",8,"Other / Small",0,NULL,NULL,0.185536,606000
+12072,"Hawai'i, Creole-Speaking",US,"United States",hwc,"Hawai'i Pidgin",9,Unknown,0,NULL,NULL,0.185536,606000
+12247,"Arab, Iraqi",US,"United States",acm,"Arabic, Mesopotamian Spoken",1,Christianity,1.6,0.2,NULL,0.179612,587000
+12247,"Arab, Iraqi",US,"United States",acm,"Arabic, Mesopotamian Spoken",1,Christianity,9,NULL,NULL,0.179612,587000
+12247,"Arab, Iraqi",US,"United States",acm,"Arabic, Mesopotamian Spoken",2,Buddhism,0,NULL,NULL,0.179612,587000
+12247,"Arab, Iraqi",US,"United States",acm,"Arabic, Mesopotamian Spoken",3,"Doubly Professing",0,NULL,NULL,0.179612,587000
+12247,"Arab, Iraqi",US,"United States",acm,"Arabic, Mesopotamian Spoken",4,"Ethnic Religions",0,NULL,NULL,0.179612,587000
+12247,"Arab, Iraqi",US,"United States",acm,"Arabic, Mesopotamian Spoken",5,Hinduism,0,NULL,NULL,0.179612,587000
+12247,"Arab, Iraqi",US,"United States",acm,"Arabic, Mesopotamian Spoken",6,Islam,94.4,NULL,NULL,0.179612,587000
+12247,"Arab, Iraqi",US,"United States",acm,"Arabic, Mesopotamian Spoken",6,Islam,NULL,NULL,NULL,0.179612,587000
+12247,"Arab, Iraqi",US,"United States",acm,"Arabic, Mesopotamian Spoken",7,Non-Religious,2,NULL,NULL,0.179612,587000
+12247,"Arab, Iraqi",US,"United States",acm,"Arabic, Mesopotamian Spoken",8,"Other / Small",2,NULL,NULL,0.179612,587000
+12247,"Arab, Iraqi",US,"United States",acm,"Arabic, Mesopotamian Spoken",9,Unknown,0,NULL,NULL,0.179612,587000
+11963,"Guatemalan White",US,"United States",spa,Spanish,1,Christianity,96,24,NULL,0.171145,559000
+11963,"Guatemalan White",US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,0.171145,559000
+11963,"Guatemalan White",US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,0.171145,559000
+11963,"Guatemalan White",US,"United States",spa,Spanish,4,"Ethnic Religions",0,NULL,NULL,0.171145,559000
+11963,"Guatemalan White",US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,0.171145,559000
+11963,"Guatemalan White",US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,0.171145,559000
+11963,"Guatemalan White",US,"United States",spa,Spanish,7,Non-Religious,4,NULL,NULL,0.171145,559000
+11963,"Guatemalan White",US,"United States",spa,Spanish,8,"Other / Small",0,NULL,NULL,0.171145,559000
+11963,"Guatemalan White",US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,0.171145,559000
+11540,"Amerindian, Detribalized",US,"United States",eng,English,1,Christianity,75,20,NULL,0.133738,437000
+11540,"Amerindian, Detribalized",US,"United States",eng,English,1,Christianity,83,20,NULL,0.133738,437000
+11540,"Amerindian, Detribalized",US,"United States",eng,English,2,Buddhism,0,NULL,NULL,0.133738,437000
+11540,"Amerindian, Detribalized",US,"United States",eng,English,3,"Doubly Professing",0,NULL,NULL,0.133738,437000
+11540,"Amerindian, Detribalized",US,"United States",eng,English,4,"Ethnic Religions",5,NULL,NULL,0.133738,437000
+11540,"Amerindian, Detribalized",US,"United States",eng,English,5,Hinduism,0,NULL,NULL,0.133738,437000
+11540,"Amerindian, Detribalized",US,"United States",eng,English,6,Islam,0,NULL,NULL,0.133738,437000
+11540,"Amerindian, Detribalized",US,"United States",eng,English,7,Non-Religious,20,NULL,NULL,0.133738,437000
+11540,"Amerindian, Detribalized",US,"United States",eng,English,8,"Other / Small",0,NULL,NULL,0.133738,437000
+11540,"Amerindian, Detribalized",US,"United States",eng,English,9,Unknown,0,NULL,NULL,0.133738,437000
+11069,"Cape Verdean",US,"United States",eng,English,1,Christianity,95,6.6,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",eng,English,1,Christianity,90,5,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",eng,English,2,Buddhism,0,NULL,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",eng,English,3,"Doubly Professing",0,NULL,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",eng,English,4,"Ethnic Religions",1,NULL,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",eng,English,5,Hinduism,0,NULL,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",eng,English,6,Islam,3,NULL,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",eng,English,7,Non-Religious,1,NULL,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",eng,English,8,"Other / Small",0,NULL,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",eng,English,9,Unknown,0,NULL,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",kea,Kabuverdianu,1,Christianity,95,6.6,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",kea,Kabuverdianu,1,Christianity,90,5,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",kea,Kabuverdianu,2,Buddhism,0,NULL,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",kea,Kabuverdianu,3,"Doubly Professing",0,NULL,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",kea,Kabuverdianu,4,"Ethnic Religions",1,NULL,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",kea,Kabuverdianu,5,Hinduism,0,NULL,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",kea,Kabuverdianu,6,Islam,3,NULL,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",kea,Kabuverdianu,7,Non-Religious,1,NULL,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",kea,Kabuverdianu,8,"Other / Small",0,NULL,NULL,0.132591,433000
+11069,"Cape Verdean",US,"United States",kea,Kabuverdianu,9,Unknown,0,NULL,NULL,0.132591,433000
+11942,Greek,US,"United States",ell,Greek,1,Christianity,91,0.4,NULL,0.121847,398000
+11942,Greek,US,"United States",ell,Greek,1,Christianity,95,0.4,NULL,0.121847,398000
+11942,Greek,US,"United States",ell,Greek,2,Buddhism,0,NULL,NULL,0.121847,398000
+11942,Greek,US,"United States",ell,Greek,3,"Doubly Professing",0,NULL,NULL,0.121847,398000
+11942,Greek,US,"United States",ell,Greek,4,"Ethnic Religions",0,NULL,NULL,0.121847,398000
+11942,Greek,US,"United States",ell,Greek,5,Hinduism,0,NULL,NULL,0.121847,398000
+11942,Greek,US,"United States",ell,Greek,6,Islam,0,NULL,NULL,0.121847,398000
+11942,Greek,US,"United States",ell,Greek,7,Non-Religious,9,NULL,NULL,0.121847,398000
+11942,Greek,US,"United States",ell,Greek,8,"Other / Small",0,NULL,NULL,0.121847,398000
+11942,Greek,US,"United States",ell,Greek,9,Unknown,0,NULL,NULL,0.121847,398000
+18274,Turk,US,"United States",tur,Turkish,1,Christianity,3,0.5,NULL,0.116012,379000
+18274,Turk,US,"United States",tur,Turkish,1,Christianity,3,NULL,NULL,0.116012,379000
+18274,Turk,US,"United States",tur,Turkish,2,Buddhism,0,NULL,NULL,0.116012,379000
+18274,Turk,US,"United States",tur,Turkish,3,"Doubly Professing",0,NULL,NULL,0.116012,379000
+18274,Turk,US,"United States",tur,Turkish,4,"Ethnic Religions",0,NULL,NULL,0.116012,379000
+18274,Turk,US,"United States",tur,Turkish,5,Hinduism,0,NULL,NULL,0.116012,379000
+18274,Turk,US,"United States",tur,Turkish,6,Islam,92,NULL,NULL,0.116012,379000
+18274,Turk,US,"United States",tur,Turkish,6,Islam,NULL,NULL,NULL,0.116012,379000
+18274,Turk,US,"United States",tur,Turkish,7,Non-Religious,5,NULL,NULL,0.116012,379000
+18274,Turk,US,"United States",tur,Turkish,8,"Other / Small",0,NULL,NULL,0.116012,379000
+18274,Turk,US,"United States",tur,Turkish,9,Unknown,0,NULL,NULL,0.116012,379000
+11713,"Ecuadorian, Mestizo",US,"United States",spa,Spanish,1,Christianity,94,9,NULL,0.106328,347000
+11713,"Ecuadorian, Mestizo",US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,0.106328,347000
+11713,"Ecuadorian, Mestizo",US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,0.106328,347000
+11713,"Ecuadorian, Mestizo",US,"United States",spa,Spanish,4,"Ethnic Religions",0,NULL,NULL,0.106328,347000
+11713,"Ecuadorian, Mestizo",US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,0.106328,347000
+11713,"Ecuadorian, Mestizo",US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,0.106328,347000
+11713,"Ecuadorian, Mestizo",US,"United States",spa,Spanish,7,Non-Religious,6,NULL,NULL,0.106328,347000
+11713,"Ecuadorian, Mestizo",US,"United States",spa,Spanish,8,"Other / Small",0,NULL,NULL,0.106328,347000
+11713,"Ecuadorian, Mestizo",US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,0.106328,347000
+19211,"South Asian, general",US,"United States",hin,Hindi,1,Christianity,10,1,NULL,0.105629,345000
+19211,"South Asian, general",US,"United States",hin,Hindi,1,Christianity,10,NULL,NULL,0.105629,345000
+19211,"South Asian, general",US,"United States",hin,Hindi,2,Buddhism,0,NULL,NULL,0.105629,345000
+19211,"South Asian, general",US,"United States",hin,Hindi,3,"Doubly Professing",0,NULL,NULL,0.105629,345000
+19211,"South Asian, general",US,"United States",hin,Hindi,4,"Ethnic Religions",0,NULL,NULL,0.105629,345000
+19211,"South Asian, general",US,"United States",hin,Hindi,5,Hinduism,70,NULL,NULL,0.105629,345000
+19211,"South Asian, general",US,"United States",hin,Hindi,5,Hinduism,NULL,NULL,NULL,0.105629,345000
+19211,"South Asian, general",US,"United States",hin,Hindi,6,Islam,15,NULL,NULL,0.105629,345000
+19211,"South Asian, general",US,"United States",hin,Hindi,7,Non-Religious,0,NULL,NULL,0.105629,345000
+19211,"South Asian, general",US,"United States",hin,Hindi,8,"Other / Small",5,NULL,NULL,0.105629,345000
+19211,"South Asian, general",US,"United States",hin,Hindi,9,Unknown,0,NULL,NULL,0.105629,345000
+14371,Persian,US,"United States",pes,"Persian, Iranian",1,Christianity,2,0.3,NULL,0.104671,342000
+14371,Persian,US,"United States",pes,"Persian, Iranian",1,Christianity,20,NULL,NULL,0.104671,342000
+14371,Persian,US,"United States",pes,"Persian, Iranian",2,Buddhism,0,NULL,NULL,0.104671,342000
+14371,Persian,US,"United States",pes,"Persian, Iranian",3,"Doubly Professing",0,NULL,NULL,0.104671,342000
+14371,Persian,US,"United States",pes,"Persian, Iranian",4,"Ethnic Religions",0,NULL,NULL,0.104671,342000
+14371,Persian,US,"United States",pes,"Persian, Iranian",5,Hinduism,0,NULL,NULL,0.104671,342000
+14371,Persian,US,"United States",pes,"Persian, Iranian",6,Islam,76,NULL,NULL,0.104671,342000
+14371,Persian,US,"United States",pes,"Persian, Iranian",6,Islam,NULL,NULL,NULL,0.104671,342000
+14371,Persian,US,"United States",pes,"Persian, Iranian",7,Non-Religious,8,NULL,NULL,0.104671,342000
+14371,Persian,US,"United States",pes,"Persian, Iranian",8,"Other / Small",13.9998,NULL,NULL,0.104671,342000
+14371,Persian,US,"United States",pes,"Persian, Iranian",9,Unknown,0,NULL,NULL,0.104671,342000
+14323,Part-Indian,US,"United States",eng,English,1,Christianity,95,7,NULL,0.0990666,324000
+14323,Part-Indian,US,"United States",eng,English,1,Christianity,95,NULL,NULL,0.0990666,324000
+14323,Part-Indian,US,"United States",eng,English,2,Buddhism,0,NULL,NULL,0.0990666,324000
+14323,Part-Indian,US,"United States",eng,English,3,"Doubly Professing",0,NULL,NULL,0.0990666,324000
+14323,Part-Indian,US,"United States",eng,English,4,"Ethnic Religions",4.9999,NULL,NULL,0.0990666,324000
+14323,Part-Indian,US,"United States",eng,English,5,Hinduism,0,NULL,NULL,0.0990666,324000
+14323,Part-Indian,US,"United States",eng,English,6,Islam,0,NULL,NULL,0.0990666,324000
+14323,Part-Indian,US,"United States",eng,English,7,Non-Religious,0,NULL,NULL,0.0990666,324000
+14323,Part-Indian,US,"United States",eng,English,8,"Other / Small",0,NULL,NULL,0.0990666,324000
+14323,Part-Indian,US,"United States",eng,English,9,Unknown,0,NULL,NULL,0.0990666,324000
+14373,Peruvian,US,"United States",spa,Spanish,1,Christianity,96,15,NULL,0.0990498,324000
+14373,Peruvian,US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,0.0990498,324000
+14373,Peruvian,US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,0.0990498,324000
+14373,Peruvian,US,"United States",spa,Spanish,4,"Ethnic Religions",4,NULL,NULL,0.0990498,324000
+14373,Peruvian,US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,0.0990498,324000
+14373,Peruvian,US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,0.0990498,324000
+14373,Peruvian,US,"United States",spa,Spanish,7,Non-Religious,0,NULL,NULL,0.0990498,324000
+14373,Peruvian,US,"United States",spa,Spanish,8,"Other / Small",0,NULL,NULL,0.0990498,324000
+14373,Peruvian,US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,0.0990498,324000
+11324,Cherokee,US,"United States",chr,Cherokee,1,Christianity,65,5,NULL,0.0923793,302000
+11324,Cherokee,US,"United States",chr,Cherokee,1,Christianity,90,NULL,NULL,0.0923793,302000
+11324,Cherokee,US,"United States",chr,Cherokee,2,Buddhism,0,NULL,NULL,0.0923793,302000
+11324,Cherokee,US,"United States",chr,Cherokee,3,"Doubly Professing",0,NULL,NULL,0.0923793,302000
+11324,Cherokee,US,"United States",chr,Cherokee,4,"Ethnic Religions",25,NULL,NULL,0.0923793,302000
+11324,Cherokee,US,"United States",chr,Cherokee,5,Hinduism,0,NULL,NULL,0.0923793,302000
+11324,Cherokee,US,"United States",chr,Cherokee,6,Islam,0,NULL,NULL,0.0923793,302000
+11324,Cherokee,US,"United States",chr,Cherokee,7,Non-Religious,10,NULL,NULL,0.0923793,302000
+11324,Cherokee,US,"United States",chr,Cherokee,8,"Other / Small",0,NULL,NULL,0.0923793,302000
+11324,Cherokee,US,"United States",chr,Cherokee,9,Unknown,0,NULL,NULL,0.0923793,302000
+13257,Navaho,US,"United States",nav,Navajo,1,Christianity,60,3,NULL,0.0919114,300000
+13257,Navaho,US,"United States",nav,Navajo,1,Christianity,86,NULL,NULL,0.0919114,300000
+13257,Navaho,US,"United States",nav,Navajo,2,Buddhism,0,NULL,NULL,0.0919114,300000
+13257,Navaho,US,"United States",nav,Navajo,3,"Doubly Professing",0,NULL,NULL,0.0919114,300000
+13257,Navaho,US,"United States",nav,Navajo,4,"Ethnic Religions",25,NULL,NULL,0.0919114,300000
+13257,Navaho,US,"United States",nav,Navajo,5,Hinduism,0,NULL,NULL,0.0919114,300000
+13257,Navaho,US,"United States",nav,Navajo,6,Islam,0,NULL,NULL,0.0919114,300000
+13257,Navaho,US,"United States",nav,Navajo,7,Non-Religious,15,NULL,NULL,0.0919114,300000
+13257,Navaho,US,"United States",nav,Navajo,8,"Other / Small",0,NULL,NULL,0.0919114,300000
+13257,Navaho,US,"United States",nav,Navajo,9,Unknown,0,NULL,NULL,0.0919114,300000
+15727,Urdu,US,"United States",urd,Urdu,1,Christianity,0,0,NULL,0.0913036,298000
+15727,Urdu,US,"United States",urd,Urdu,1,Christianity,0.1,0.04,NULL,0.0913036,298000
+15727,Urdu,US,"United States",urd,Urdu,2,Buddhism,0,NULL,NULL,0.0913036,298000
+15727,Urdu,US,"United States",urd,Urdu,3,"Doubly Professing",0,NULL,NULL,0.0913036,298000
+15727,Urdu,US,"United States",urd,Urdu,4,"Ethnic Religions",0,NULL,NULL,0.0913036,298000
+15727,Urdu,US,"United States",urd,Urdu,5,Hinduism,0,NULL,NULL,0.0913036,298000
+15727,Urdu,US,"United States",urd,Urdu,6,Islam,100,NULL,NULL,0.0913036,298000
+15727,Urdu,US,"United States",urd,Urdu,6,Islam,NULL,NULL,NULL,0.0913036,298000
+15727,Urdu,US,"United States",urd,Urdu,7,Non-Religious,0,NULL,NULL,0.0913036,298000
+15727,Urdu,US,"United States",urd,Urdu,8,"Other / Small",0,NULL,NULL,0.0913036,298000
+15727,Urdu,US,"United States",urd,Urdu,9,Unknown,0,NULL,NULL,0.0913036,298000
+10998,Bulgarian,US,"United States",bul,Bulgarian,1,Christianity,80,1.9,NULL,0.0898065,293000
+10998,Bulgarian,US,"United States",bul,Bulgarian,1,Christianity,76,NULL,NULL,0.0898065,293000
+10998,Bulgarian,US,"United States",bul,Bulgarian,2,Buddhism,0,NULL,NULL,0.0898065,293000
+10998,Bulgarian,US,"United States",bul,Bulgarian,3,"Doubly Professing",0,NULL,NULL,0.0898065,293000
+10998,Bulgarian,US,"United States",bul,Bulgarian,4,"Ethnic Religions",0,NULL,NULL,0.0898065,293000
+10998,Bulgarian,US,"United States",bul,Bulgarian,5,Hinduism,0,NULL,NULL,0.0898065,293000
+10998,Bulgarian,US,"United States",bul,Bulgarian,6,Islam,0,NULL,NULL,0.0898065,293000
+10998,Bulgarian,US,"United States",bul,Bulgarian,7,Non-Religious,20,NULL,NULL,0.0898065,293000
+10998,Bulgarian,US,"United States",bul,Bulgarian,8,"Other / Small",0,NULL,NULL,0.0898065,293000
+10998,Bulgarian,US,"United States",bul,Bulgarian,9,Unknown,0,NULL,NULL,0.0898065,293000
+10966,"Brazilian, White",US,"United States",por,Portuguese,1,Christianity,90,28,NULL,0.0882305,288000
+10966,"Brazilian, White",US,"United States",por,Portuguese,2,Buddhism,0,NULL,NULL,0.0882305,288000
+10966,"Brazilian, White",US,"United States",por,Portuguese,3,"Doubly Professing",0,NULL,NULL,0.0882305,288000
+10966,"Brazilian, White",US,"United States",por,Portuguese,4,"Ethnic Religions",5,NULL,NULL,0.0882305,288000
+10966,"Brazilian, White",US,"United States",por,Portuguese,5,Hinduism,0,NULL,NULL,0.0882305,288000
+10966,"Brazilian, White",US,"United States",por,Portuguese,6,Islam,0,NULL,NULL,0.0882305,288000
+10966,"Brazilian, White",US,"United States",por,Portuguese,7,Non-Religious,5,NULL,NULL,0.0882305,288000
+10966,"Brazilian, White",US,"United States",por,Portuguese,8,"Other / Small",0,NULL,NULL,0.0882305,288000
+10966,"Brazilian, White",US,"United States",por,Portuguese,9,Unknown,0,NULL,NULL,0.0882305,288000
+19525,"Black Creole, Gullah",US,"United States",gul,"Sea Island Creole English",1,Christianity,95,12,NULL,0.0878103,287000
+19525,"Black Creole, Gullah",US,"United States",gul,"Sea Island Creole English",1,Christianity,95,NULL,NULL,0.0878103,287000
+19525,"Black Creole, Gullah",US,"United States",gul,"Sea Island Creole English",2,Buddhism,0,NULL,NULL,0.0878103,287000
+19525,"Black Creole, Gullah",US,"United States",gul,"Sea Island Creole English",3,"Doubly Professing",0,NULL,NULL,0.0878103,287000
+19525,"Black Creole, Gullah",US,"United States",gul,"Sea Island Creole English",4,"Ethnic Religions",0,NULL,NULL,0.0878103,287000
+19525,"Black Creole, Gullah",US,"United States",gul,"Sea Island Creole English",5,Hinduism,0,NULL,NULL,0.0878103,287000
+19525,"Black Creole, Gullah",US,"United States",gul,"Sea Island Creole English",6,Islam,0,NULL,NULL,0.0878103,287000
+19525,"Black Creole, Gullah",US,"United States",gul,"Sea Island Creole English",7,Non-Religious,5,NULL,NULL,0.0878103,287000
+19525,"Black Creole, Gullah",US,"United States",gul,"Sea Island Creole English",8,"Other / Small",0,NULL,NULL,0.0878103,287000
+19525,"Black Creole, Gullah",US,"United States",gul,"Sea Island Creole English",9,Unknown,0,NULL,NULL,0.0878103,287000
+12057,"Han Chinese, Cantonese",US,"United States",yue,"Chinese, Yue",1,Christianity,9,6,NULL,0.0867805,284000
+12057,"Han Chinese, Cantonese",US,"United States",yue,"Chinese, Yue",1,Christianity,23,NULL,NULL,0.0867805,284000
+12057,"Han Chinese, Cantonese",US,"United States",yue,"Chinese, Yue",2,Buddhism,10,NULL,NULL,0.0867805,284000
+12057,"Han Chinese, Cantonese",US,"United States",yue,"Chinese, Yue",2,Buddhism,40,NULL,20,0.0867805,284000
+12057,"Han Chinese, Cantonese",US,"United States",yue,"Chinese, Yue",3,"Doubly Professing",0,NULL,NULL,0.0867805,284000
+12057,"Han Chinese, Cantonese",US,"United States",yue,"Chinese, Yue",4,"Ethnic Religions",35,NULL,NULL,0.0867805,284000
+12057,"Han Chinese, Cantonese",US,"United States",yue,"Chinese, Yue",4,"Ethnic Religions",NULL,NULL,NULL,0.0867805,284000
+12057,"Han Chinese, Cantonese",US,"United States",yue,"Chinese, Yue",5,Hinduism,0,NULL,NULL,0.0867805,284000
+12057,"Han Chinese, Cantonese",US,"United States",yue,"Chinese, Yue",6,Islam,2,NULL,NULL,0.0867805,284000
+12057,"Han Chinese, Cantonese",US,"United States",yue,"Chinese, Yue",7,Non-Religious,44,NULL,NULL,0.0867805,284000
+12057,"Han Chinese, Cantonese",US,"United States",yue,"Chinese, Yue",8,"Other / Small",0,NULL,NULL,0.0867805,284000
+12057,"Han Chinese, Cantonese",US,"United States",yue,"Chinese, Yue",9,Unknown,0,NULL,NULL,0.0867805,284000
+11722,"Arab, Egyptian",US,"United States",arz,"Arabic, Egyptian Spoken",1,Christianity,40,4,NULL,0.082225,269000
+11722,"Arab, Egyptian",US,"United States",arz,"Arabic, Egyptian Spoken",1,Christianity,50,NULL,NULL,0.082225,269000
+11722,"Arab, Egyptian",US,"United States",arz,"Arabic, Egyptian Spoken",2,Buddhism,0,NULL,NULL,0.082225,269000
+11722,"Arab, Egyptian",US,"United States",arz,"Arabic, Egyptian Spoken",3,"Doubly Professing",0,NULL,NULL,0.082225,269000
+11722,"Arab, Egyptian",US,"United States",arz,"Arabic, Egyptian Spoken",4,"Ethnic Religions",0,NULL,NULL,0.082225,269000
+11722,"Arab, Egyptian",US,"United States",arz,"Arabic, Egyptian Spoken",5,Hinduism,0,NULL,NULL,0.082225,269000
+11722,"Arab, Egyptian",US,"United States",arz,"Arabic, Egyptian Spoken",6,Islam,50,NULL,NULL,0.082225,269000
+11722,"Arab, Egyptian",US,"United States",arz,"Arabic, Egyptian Spoken",6,Islam,NULL,NULL,NULL,0.082225,269000
+11722,"Arab, Egyptian",US,"United States",arz,"Arabic, Egyptian Spoken",7,Non-Religious,10,NULL,NULL,0.082225,269000
+11722,"Arab, Egyptian",US,"United States",arz,"Arabic, Egyptian Spoken",8,"Other / Small",0,NULL,NULL,0.082225,269000
+11722,"Arab, Egyptian",US,"United States",arz,"Arabic, Egyptian Spoken",9,Unknown,0,NULL,NULL,0.082225,269000
+12121,Honduran,US,"United States",spa,Spanish,1,Christianity,96,20,NULL,0.0793477,259000
+12121,Honduran,US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,0.0793477,259000
+12121,Honduran,US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,0.0793477,259000
+12121,Honduran,US,"United States",spa,Spanish,4,"Ethnic Religions",0,NULL,NULL,0.0793477,259000
+12121,Honduran,US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,0.0793477,259000
+12121,Honduran,US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,0.0793477,259000
+12121,Honduran,US,"United States",spa,Spanish,7,Non-Religious,4,NULL,NULL,0.0793477,259000
+12121,Honduran,US,"United States",spa,Spanish,8,"Other / Small",0,NULL,NULL,0.0793477,259000
+12121,Honduran,US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,0.0793477,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",1,Christianity,70,6,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",1,Christianity,98,NULL,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",2,Buddhism,0,NULL,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",3,"Doubly Professing",0,NULL,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",4,"Ethnic Religions",20,NULL,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",5,Hinduism,0,NULL,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",6,Islam,0,NULL,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",7,Non-Religious,10,NULL,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",8,"Other / Small",0,NULL,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",9,Unknown,0,NULL,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",1,Christianity,70,6,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",1,Christianity,98,NULL,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",2,Buddhism,0,NULL,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",3,"Doubly Professing",0,NULL,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",4,"Ethnic Religions",20,NULL,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",5,Hinduism,0,NULL,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",6,Islam,0,NULL,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",7,Non-Religious,10,NULL,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",8,"Other / Small",0,NULL,NULL,0.0792519,259000
+14567,"Romani, Vlax",US,"United States",rmy,"Romani, Vlax",9,Unknown,0,NULL,NULL,0.0792519,259000
+13391,"Nicaraguan, Mestizo",US,"United States",spa,Spanish,1,Christianity,97,28,NULL,0.0784516,256000
+13391,"Nicaraguan, Mestizo",US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,0.0784516,256000
+13391,"Nicaraguan, Mestizo",US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,0.0784516,256000
+13391,"Nicaraguan, Mestizo",US,"United States",spa,Spanish,4,"Ethnic Religions",0,NULL,NULL,0.0784516,256000
+13391,"Nicaraguan, Mestizo",US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,0.0784516,256000
+13391,"Nicaraguan, Mestizo",US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,0.0784516,256000
+13391,"Nicaraguan, Mestizo",US,"United States",spa,Spanish,7,Non-Religious,3,NULL,NULL,0.0784516,256000
+13391,"Nicaraguan, Mestizo",US,"United States",spa,Spanish,8,"Other / Small",0,NULL,NULL,0.0784516,256000
+13391,"Nicaraguan, Mestizo",US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,0.0784516,256000
+16878,"Gujar (Hindu traditions)",US,"United States",guj,Gujarati,1,Christianity,0,0,NULL,0.0773958,253000
+16878,"Gujar (Hindu traditions)",US,"United States",guj,Gujarati,1,Christianity,0,0,NULL,0.0773958,253000
+16878,"Gujar (Hindu traditions)",US,"United States",guj,Gujarati,2,Buddhism,0,NULL,NULL,0.0773958,253000
+16878,"Gujar (Hindu traditions)",US,"United States",guj,Gujarati,3,"Doubly Professing",0,NULL,NULL,0.0773958,253000
+16878,"Gujar (Hindu traditions)",US,"United States",guj,Gujarati,4,"Ethnic Religions",0,NULL,NULL,0.0773958,253000
+16878,"Gujar (Hindu traditions)",US,"United States",guj,Gujarati,5,Hinduism,100,NULL,NULL,0.0773958,253000
+16878,"Gujar (Hindu traditions)",US,"United States",guj,Gujarati,5,Hinduism,NULL,NULL,NULL,0.0773958,253000
+16878,"Gujar (Hindu traditions)",US,"United States",guj,Gujarati,6,Islam,0,NULL,NULL,0.0773958,253000
+16878,"Gujar (Hindu traditions)",US,"United States",guj,Gujarati,7,Non-Religious,0,NULL,NULL,0.0773958,253000
+16878,"Gujar (Hindu traditions)",US,"United States",guj,Gujarati,8,"Other / Small",0,NULL,NULL,0.0773958,253000
+16878,"Gujar (Hindu traditions)",US,"United States",guj,Gujarati,9,Unknown,0,NULL,NULL,0.0773958,253000
+12662,Khmer,US,"United States",khm,Khmer,1,Christianity,3,1.6,NULL,0.0769597,251000
+12662,Khmer,US,"United States",khm,Khmer,1,Christianity,4,0.6,NULL,0.0769597,251000
+12662,Khmer,US,"United States",khm,Khmer,2,Buddhism,86,NULL,NULL,0.0769597,251000
+12662,Khmer,US,"United States",khm,Khmer,2,Buddhism,96,NULL,70,0.0769597,251000
+12662,Khmer,US,"United States",khm,Khmer,3,"Doubly Professing",0,NULL,NULL,0.0769597,251000
+12662,Khmer,US,"United States",khm,Khmer,4,"Ethnic Religions",8,NULL,NULL,0.0769597,251000
+12662,Khmer,US,"United States",khm,Khmer,5,Hinduism,0,NULL,NULL,0.0769597,251000
+12662,Khmer,US,"United States",khm,Khmer,6,Islam,0,NULL,NULL,0.0769597,251000
+12662,Khmer,US,"United States",khm,Khmer,7,Non-Religious,3,NULL,NULL,0.0769597,251000
+12662,Khmer,US,"United States",khm,Khmer,8,"Other / Small",0,NULL,NULL,0.0769597,251000
+12662,Khmer,US,"United States",khm,Khmer,9,Unknown,0,NULL,NULL,0.0769597,251000
+14364,Amish,US,"United States",deu,"German, Standard",1,Christianity,98,10,NULL,0.0761087,249000
+14364,Amish,US,"United States",deu,"German, Standard",1,Christianity,98,10,NULL,0.0761087,249000
+14364,Amish,US,"United States",deu,"German, Standard",2,Buddhism,0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",deu,"German, Standard",3,"Doubly Professing",0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",deu,"German, Standard",4,"Ethnic Religions",0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",deu,"German, Standard",5,Hinduism,0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",deu,"German, Standard",6,Islam,0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",deu,"German, Standard",7,Non-Religious,2,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",deu,"German, Standard",8,"Other / Small",0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",deu,"German, Standard",9,Unknown,0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",eng,English,1,Christianity,98,10,NULL,0.0761087,249000
+14364,Amish,US,"United States",eng,English,1,Christianity,98,10,NULL,0.0761087,249000
+14364,Amish,US,"United States",eng,English,2,Buddhism,0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",eng,English,3,"Doubly Professing",0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",eng,English,4,"Ethnic Religions",0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",eng,English,5,Hinduism,0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",eng,English,6,Islam,0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",eng,English,7,Non-Religious,2,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",eng,English,8,"Other / Small",0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",eng,English,9,Unknown,0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",pdc,"German, Pennsylvania",1,Christianity,98,10,NULL,0.0761087,249000
+14364,Amish,US,"United States",pdc,"German, Pennsylvania",1,Christianity,98,10,NULL,0.0761087,249000
+14364,Amish,US,"United States",pdc,"German, Pennsylvania",2,Buddhism,0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",pdc,"German, Pennsylvania",3,"Doubly Professing",0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",pdc,"German, Pennsylvania",4,"Ethnic Religions",0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",pdc,"German, Pennsylvania",5,Hinduism,0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",pdc,"German, Pennsylvania",6,Islam,0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",pdc,"German, Pennsylvania",7,Non-Religious,2,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",pdc,"German, Pennsylvania",8,"Other / Small",0,NULL,NULL,0.0761087,249000
+14364,Amish,US,"United States",pdc,"German, Pennsylvania",9,Unknown,0,NULL,NULL,0.0761087,249000
+15782,Venezualans,US,"United States",spa,Spanish,1,Christianity,85,11,NULL,0.0693093,226000
+15782,Venezualans,US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,0.0693093,226000
+15782,Venezualans,US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,0.0693093,226000
+15782,Venezualans,US,"United States",spa,Spanish,4,"Ethnic Religions",0,NULL,NULL,0.0693093,226000
+15782,Venezualans,US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,0.0693093,226000
+15782,Venezualans,US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,0.0693093,226000
+15782,Venezualans,US,"United States",spa,Spanish,7,Non-Religious,15,NULL,NULL,0.0693093,226000
+15782,Venezualans,US,"United States",spa,Spanish,8,"Other / Small",0,NULL,NULL,0.0693093,226000
+15782,Venezualans,US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,0.0693093,226000
+12189,Igbo,US,"United States",ibo,Igbo,1,Christianity,98,35,NULL,0.0681819,223000
+12189,Igbo,US,"United States",ibo,Igbo,2,Buddhism,0,NULL,NULL,0.0681819,223000
+12189,Igbo,US,"United States",ibo,Igbo,3,"Doubly Professing",0,NULL,NULL,0.0681819,223000
+12189,Igbo,US,"United States",ibo,Igbo,4,"Ethnic Religions",2,NULL,NULL,0.0681819,223000
+12189,Igbo,US,"United States",ibo,Igbo,5,Hinduism,0,NULL,NULL,0.0681819,223000
+12189,Igbo,US,"United States",ibo,Igbo,6,Islam,0,NULL,NULL,0.0681819,223000
+12189,Igbo,US,"United States",ibo,Igbo,7,Non-Religious,0,NULL,NULL,0.0681819,223000
+12189,Igbo,US,"United States",ibo,Igbo,8,"Other / Small",0,NULL,NULL,0.0681819,223000
+12189,Igbo,US,"United States",ibo,Igbo,9,Unknown,0,NULL,NULL,0.0681819,223000
+10429,Armenian,US,"United States",hye,Armenian,1,Christianity,94,8.7,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hye,Armenian,1,Christianity,87,NULL,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hye,Armenian,2,Buddhism,0,NULL,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hye,Armenian,3,"Doubly Professing",0,NULL,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hye,Armenian,4,"Ethnic Religions",0,NULL,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hye,Armenian,5,Hinduism,0,NULL,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hye,Armenian,6,Islam,0,NULL,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hye,Armenian,7,Non-Religious,6,NULL,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hye,Armenian,8,"Other / Small",0,NULL,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hye,Armenian,9,Unknown,0,NULL,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hyw,"Armenian, Western",1,Christianity,94,8.7,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hyw,"Armenian, Western",1,Christianity,87,NULL,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hyw,"Armenian, Western",2,Buddhism,0,NULL,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hyw,"Armenian, Western",3,"Doubly Professing",0,NULL,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hyw,"Armenian, Western",4,"Ethnic Religions",0,NULL,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hyw,"Armenian, Western",5,Hinduism,0,NULL,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hyw,"Armenian, Western",6,Islam,0,NULL,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hyw,"Armenian, Western",7,Non-Religious,6,NULL,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hyw,"Armenian, Western",8,"Other / Small",0,NULL,NULL,0.0676929,221000
+10429,Armenian,US,"United States",hyw,"Armenian, Western",9,Unknown,0,NULL,NULL,0.0676929,221000
+12267,"Jew, Israeli",US,"United States",heb,Hebrew,1,Christianity,0.3,0.1,NULL,0.0646895,211000
+12267,"Jew, Israeli",US,"United States",heb,Hebrew,1,Christianity,0.2,NULL,NULL,0.0646895,211000
+12267,"Jew, Israeli",US,"United States",heb,Hebrew,2,Buddhism,0,NULL,NULL,0.0646895,211000
+12267,"Jew, Israeli",US,"United States",heb,Hebrew,3,"Doubly Professing",0,NULL,NULL,0.0646895,211000
+12267,"Jew, Israeli",US,"United States",heb,Hebrew,4,"Ethnic Religions",83.9,NULL,NULL,0.0646895,211000
+12267,"Jew, Israeli",US,"United States",heb,Hebrew,4,"Ethnic Religions",NULL,NULL,NULL,0.0646895,211000
+12267,"Jew, Israeli",US,"United States",heb,Hebrew,5,Hinduism,0,NULL,NULL,0.0646895,211000
+12267,"Jew, Israeli",US,"United States",heb,Hebrew,6,Islam,0,NULL,NULL,0.0646895,211000
+12267,"Jew, Israeli",US,"United States",heb,Hebrew,7,Non-Religious,15,NULL,NULL,0.0646895,211000
+12267,"Jew, Israeli",US,"United States",heb,Hebrew,8,"Other / Small",0.799744,NULL,NULL,0.0646895,211000
+12267,"Jew, Israeli",US,"United States",heb,Hebrew,9,Unknown,0,NULL,NULL,0.0646895,211000
+12989,Lao,US,"United States",lao,Lao,1,Christianity,4,0.5,NULL,0.0633301,207000
+12989,Lao,US,"United States",lao,Lao,1,Christianity,4,NULL,NULL,0.0633301,207000
+12989,Lao,US,"United States",lao,Lao,2,Buddhism,59.9996,NULL,NULL,0.0633301,207000
+12989,Lao,US,"United States",lao,Lao,2,Buddhism,93,NULL,80,0.0633301,207000
+12989,Lao,US,"United States",lao,Lao,3,"Doubly Professing",0,NULL,NULL,0.0633301,207000
+12989,Lao,US,"United States",lao,Lao,4,"Ethnic Religions",32.9997,NULL,NULL,0.0633301,207000
+12989,Lao,US,"United States",lao,Lao,5,Hinduism,0,NULL,NULL,0.0633301,207000
+12989,Lao,US,"United States",lao,Lao,6,Islam,0,NULL,NULL,0.0633301,207000
+12989,Lao,US,"United States",lao,Lao,7,Non-Religious,3,NULL,NULL,0.0633301,207000
+12989,Lao,US,"United States",lao,Lao,8,"Other / Small",0,NULL,NULL,0.0633301,207000
+12989,Lao,US,"United States",lao,Lao,9,Unknown,0,NULL,NULL,0.0633301,207000
+15324,Telugu,US,"United States",tel,Telugu,1,Christianity,3,0.6,NULL,0.0612057,200000
+15324,Telugu,US,"United States",tel,Telugu,1,Christianity,10,NULL,NULL,0.0612057,200000
+15324,Telugu,US,"United States",tel,Telugu,2,Buddhism,0,NULL,NULL,0.0612057,200000
+15324,Telugu,US,"United States",tel,Telugu,3,"Doubly Professing",0,NULL,NULL,0.0612057,200000
+15324,Telugu,US,"United States",tel,Telugu,4,"Ethnic Religions",0,NULL,NULL,0.0612057,200000
+15324,Telugu,US,"United States",tel,Telugu,5,Hinduism,97,NULL,NULL,0.0612057,200000
+15324,Telugu,US,"United States",tel,Telugu,5,Hinduism,NULL,NULL,NULL,0.0612057,200000
+15324,Telugu,US,"United States",tel,Telugu,6,Islam,0,NULL,NULL,0.0612057,200000
+15324,Telugu,US,"United States",tel,Telugu,7,Non-Religious,0,NULL,NULL,0.0612057,200000
+15324,Telugu,US,"United States",tel,Telugu,8,"Other / Small",0,NULL,NULL,0.0612057,200000
+15324,Telugu,US,"United States",tel,Telugu,9,Unknown,0,NULL,NULL,0.0612057,200000
+11437,Croat,US,"United States",hrv,Croatian,1,Christianity,92,0.4,NULL,0.0611292,200000
+11437,Croat,US,"United States",hrv,Croatian,1,Christianity,85,0.26,NULL,0.0611292,200000
+11437,Croat,US,"United States",hrv,Croatian,2,Buddhism,0,NULL,NULL,0.0611292,200000
+11437,Croat,US,"United States",hrv,Croatian,3,"Doubly Professing",0,NULL,NULL,0.0611292,200000
+11437,Croat,US,"United States",hrv,Croatian,4,"Ethnic Religions",0,NULL,NULL,0.0611292,200000
+11437,Croat,US,"United States",hrv,Croatian,5,Hinduism,0,NULL,NULL,0.0611292,200000
+11437,Croat,US,"United States",hrv,Croatian,6,Islam,0,NULL,NULL,0.0611292,200000
+11437,Croat,US,"United States",hrv,Croatian,7,Non-Religious,8,NULL,NULL,0.0611292,200000
+11437,Croat,US,"United States",hrv,Croatian,8,"Other / Small",0,NULL,NULL,0.0611292,200000
+11437,Croat,US,"United States",hrv,Croatian,9,Unknown,0,NULL,NULL,0.0611292,200000
+16057,Yoruba,US,"United States",yor,Yoruba,1,Christianity,45,13,NULL,0.0588759,192000
+16057,Yoruba,US,"United States",yor,Yoruba,1,Christianity,45,13,NULL,0.0588759,192000
+16057,Yoruba,US,"United States",yor,Yoruba,2,Buddhism,0,NULL,NULL,0.0588759,192000
+16057,Yoruba,US,"United States",yor,Yoruba,3,"Doubly Professing",0,NULL,NULL,0.0588759,192000
+16057,Yoruba,US,"United States",yor,Yoruba,4,"Ethnic Religions",50,NULL,NULL,0.0588759,192000
+16057,Yoruba,US,"United States",yor,Yoruba,5,Hinduism,0,NULL,NULL,0.0588759,192000
+16057,Yoruba,US,"United States",yor,Yoruba,6,Islam,0,NULL,NULL,0.0588759,192000
+16057,Yoruba,US,"United States",yor,Yoruba,6,Islam,NULL,NULL,NULL,0.0588759,192000
+16057,Yoruba,US,"United States",yor,Yoruba,7,Non-Religious,5,NULL,NULL,0.0588759,192000
+16057,Yoruba,US,"United States",yor,Yoruba,8,"Other / Small",0,NULL,NULL,0.0588759,192000
+16057,Yoruba,US,"United States",yor,Yoruba,9,Unknown,0,NULL,NULL,0.0588759,192000
+12112,"Hmong Daw",US,"United States",mww,"Hmong Daw",1,Christianity,35,3,NULL,0.0554233,181000
+12112,"Hmong Daw",US,"United States",mww,"Hmong Daw",1,Christianity,35,NULL,NULL,0.0554233,181000
+12112,"Hmong Daw",US,"United States",mww,"Hmong Daw",2,Buddhism,0,NULL,NULL,0.0554233,181000
+12112,"Hmong Daw",US,"United States",mww,"Hmong Daw",3,"Doubly Professing",0,NULL,NULL,0.0554233,181000
+12112,"Hmong Daw",US,"United States",mww,"Hmong Daw",4,"Ethnic Religions",64.9991,NULL,NULL,0.0554233,181000
+12112,"Hmong Daw",US,"United States",mww,"Hmong Daw",4,"Ethnic Religions",NULL,NULL,NULL,0.0554233,181000
+12112,"Hmong Daw",US,"United States",mww,"Hmong Daw",5,Hinduism,0,NULL,NULL,0.0554233,181000
+12112,"Hmong Daw",US,"United States",mww,"Hmong Daw",6,Islam,0,NULL,NULL,0.0554233,181000
+12112,"Hmong Daw",US,"United States",mww,"Hmong Daw",7,Non-Religious,0,NULL,NULL,0.0554233,181000
+12112,"Hmong Daw",US,"United States",mww,"Hmong Daw",8,"Other / Small",0,NULL,NULL,0.0554233,181000
+12112,"Hmong Daw",US,"United States",mww,"Hmong Daw",9,Unknown,0,NULL,NULL,0.0554233,181000
+11277,"Thai, Central",US,"United States",tha,Thai,1,Christianity,0.5,0.2,NULL,0.0552164,180000
+11277,"Thai, Central",US,"United States",tha,Thai,1,Christianity,0.4,NULL,NULL,0.0552164,180000
+11277,"Thai, Central",US,"United States",tha,Thai,2,Buddhism,96.5,NULL,NULL,0.0552164,180000
+11277,"Thai, Central",US,"United States",tha,Thai,2,Buddhism,98,NULL,55,0.0552164,180000
+11277,"Thai, Central",US,"United States",tha,Thai,3,"Doubly Professing",0,NULL,NULL,0.0552164,180000
+11277,"Thai, Central",US,"United States",tha,Thai,4,"Ethnic Religions",0,NULL,NULL,0.0552164,180000
+11277,"Thai, Central",US,"United States",tha,Thai,5,Hinduism,1,NULL,NULL,0.0552164,180000
+11277,"Thai, Central",US,"United States",tha,Thai,6,Islam,1,NULL,NULL,0.0552164,180000
+11277,"Thai, Central",US,"United States",tha,Thai,7,Non-Religious,0,NULL,NULL,0.0552164,180000
+11277,"Thai, Central",US,"United States",tha,Thai,8,"Other / Small",0.999801,NULL,NULL,0.0552164,180000
+11277,"Thai, Central",US,"United States",tha,Thai,9,Unknown,0,NULL,NULL,0.0552164,180000
+11436,"Crioulo, Upper Guinea",US,"United States",pov,"Crioulo, Upper Guinea",1,Christianity,60,6,NULL,0.0517096,169000
+11436,"Crioulo, Upper Guinea",US,"United States",pov,"Crioulo, Upper Guinea",1,Christianity,60,NULL,NULL,0.0517096,169000
+11436,"Crioulo, Upper Guinea",US,"United States",pov,"Crioulo, Upper Guinea",2,Buddhism,0,NULL,NULL,0.0517096,169000
+11436,"Crioulo, Upper Guinea",US,"United States",pov,"Crioulo, Upper Guinea",3,"Doubly Professing",0,NULL,NULL,0.0517096,169000
+11436,"Crioulo, Upper Guinea",US,"United States",pov,"Crioulo, Upper Guinea",4,"Ethnic Religions",35,NULL,NULL,0.0517096,169000
+11436,"Crioulo, Upper Guinea",US,"United States",pov,"Crioulo, Upper Guinea",5,Hinduism,0,NULL,NULL,0.0517096,169000
+11436,"Crioulo, Upper Guinea",US,"United States",pov,"Crioulo, Upper Guinea",6,Islam,0,NULL,NULL,0.0517096,169000
+11436,"Crioulo, Upper Guinea",US,"United States",pov,"Crioulo, Upper Guinea",7,Non-Religious,5,NULL,NULL,0.0517096,169000
+11436,"Crioulo, Upper Guinea",US,"United States",pov,"Crioulo, Upper Guinea",8,"Other / Small",0,NULL,NULL,0.0517096,169000
+11436,"Crioulo, Upper Guinea",US,"United States",pov,"Crioulo, Upper Guinea",9,Unknown,0,NULL,NULL,0.0517096,169000
+15152,"Arab, Syrian",US,"United States",apc,"Arabic, North Levantine Spoken",1,Christianity,8,0.1,NULL,0.0516236,169000
+15152,"Arab, Syrian",US,"United States",apc,"Arabic, North Levantine Spoken",1,Christianity,15,NULL,NULL,0.0516236,169000
+15152,"Arab, Syrian",US,"United States",apc,"Arabic, North Levantine Spoken",2,Buddhism,0,NULL,NULL,0.0516236,169000
+15152,"Arab, Syrian",US,"United States",apc,"Arabic, North Levantine Spoken",3,"Doubly Professing",0,NULL,NULL,0.0516236,169000
+15152,"Arab, Syrian",US,"United States",apc,"Arabic, North Levantine Spoken",4,"Ethnic Religions",0,NULL,NULL,0.0516236,169000
+15152,"Arab, Syrian",US,"United States",apc,"Arabic, North Levantine Spoken",5,Hinduism,0,NULL,NULL,0.0516236,169000
+15152,"Arab, Syrian",US,"United States",apc,"Arabic, North Levantine Spoken",6,Islam,89,NULL,NULL,0.0516236,169000
+15152,"Arab, Syrian",US,"United States",apc,"Arabic, North Levantine Spoken",6,Islam,NULL,NULL,NULL,0.0516236,169000
+15152,"Arab, Syrian",US,"United States",apc,"Arabic, North Levantine Spoken",7,Non-Religious,1,NULL,NULL,0.0516236,169000
+15152,"Arab, Syrian",US,"United States",apc,"Arabic, North Levantine Spoken",8,"Other / Small",2,NULL,NULL,0.0516236,169000
+15152,"Arab, Syrian",US,"United States",apc,"Arabic, North Levantine Spoken",9,Unknown,0,NULL,NULL,0.0516236,169000
+12316,Jamaicans,US,"United States",eng,English,1,Christianity,83,28,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",eng,English,1,Christianity,94,NULL,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",eng,English,2,Buddhism,0,NULL,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",eng,English,3,"Doubly Professing",0,NULL,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",eng,English,4,"Ethnic Religions",10,NULL,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",eng,English,5,Hinduism,1,NULL,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",eng,English,6,Islam,0,NULL,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",eng,English,7,Non-Religious,5,NULL,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",eng,English,8,"Other / Small",1,NULL,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",eng,English,9,Unknown,0,NULL,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",jam,"Jamaican Creole English",1,Christianity,83,28,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",jam,"Jamaican Creole English",1,Christianity,94,NULL,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",jam,"Jamaican Creole English",2,Buddhism,0,NULL,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",jam,"Jamaican Creole English",3,"Doubly Professing",0,NULL,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",jam,"Jamaican Creole English",4,"Ethnic Religions",10,NULL,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",jam,"Jamaican Creole English",5,Hinduism,1,NULL,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",jam,"Jamaican Creole English",6,Islam,0,NULL,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",jam,"Jamaican Creole English",7,Non-Religious,5,NULL,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",jam,"Jamaican Creole English",8,"Other / Small",1,NULL,NULL,0.0498921,163000
+12316,Jamaicans,US,"United States",jam,"Jamaican Creole English",9,Unknown,0,NULL,NULL,0.0498921,163000
+11141,"Romani, Romanichal",US,"United States",eng,English,1,Christianity,65,9,NULL,0.0495325,162000
+11141,"Romani, Romanichal",US,"United States",eng,English,1,Christianity,80,9,NULL,0.0495325,162000
+11141,"Romani, Romanichal",US,"United States",eng,English,2,Buddhism,0,NULL,NULL,0.0495325,162000
+11141,"Romani, Romanichal",US,"United States",eng,English,3,"Doubly Professing",0,NULL,NULL,0.0495325,162000
+11141,"Romani, Romanichal",US,"United States",eng,English,4,"Ethnic Religions",0,NULL,NULL,0.0495325,162000
+11141,"Romani, Romanichal",US,"United States",eng,English,5,Hinduism,0,NULL,NULL,0.0495325,162000
+11141,"Romani, Romanichal",US,"United States",eng,English,6,Islam,0,NULL,NULL,0.0495325,162000
+11141,"Romani, Romanichal",US,"United States",eng,English,7,Non-Religious,35,NULL,NULL,0.0495325,162000
+11141,"Romani, Romanichal",US,"United States",eng,English,8,"Other / Small",0,NULL,NULL,0.0495325,162000
+11141,"Romani, Romanichal",US,"United States",eng,English,9,Unknown,0,NULL,NULL,0.0495325,162000
+13696,"Mexican Creole, Tirilone",US,"United States",spa,Spanish,1,Christianity,99,1,NULL,0.0495325,162000
+13696,"Mexican Creole, Tirilone",US,"United States",spa,Spanish,1,Christianity,90,NULL,NULL,0.0495325,162000
+13696,"Mexican Creole, Tirilone",US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,0.0495325,162000
+13696,"Mexican Creole, Tirilone",US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,0.0495325,162000
+13696,"Mexican Creole, Tirilone",US,"United States",spa,Spanish,4,"Ethnic Religions",0,NULL,NULL,0.0495325,162000
+13696,"Mexican Creole, Tirilone",US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,0.0495325,162000
+13696,"Mexican Creole, Tirilone",US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,0.0495325,162000
+13696,"Mexican Creole, Tirilone",US,"United States",spa,Spanish,7,Non-Religious,1,NULL,NULL,0.0495325,162000
+13696,"Mexican Creole, Tirilone",US,"United States",spa,Spanish,8,"Other / Small",0,NULL,NULL,0.0495325,162000
+13696,"Mexican Creole, Tirilone",US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,0.0495325,162000
+12350,"Jew, Eastern Yiddish-Speaking",US,"United States",ydd,"Yiddish, Eastern",1,Christianity,0.5,0.1,NULL,0.047645,156000
+12350,"Jew, Eastern Yiddish-Speaking",US,"United States",ydd,"Yiddish, Eastern",1,Christianity,0.05,0,NULL,0.047645,156000
+12350,"Jew, Eastern Yiddish-Speaking",US,"United States",ydd,"Yiddish, Eastern",2,Buddhism,0,NULL,NULL,0.047645,156000
+12350,"Jew, Eastern Yiddish-Speaking",US,"United States",ydd,"Yiddish, Eastern",3,"Doubly Professing",0,NULL,NULL,0.047645,156000
+12350,"Jew, Eastern Yiddish-Speaking",US,"United States",ydd,"Yiddish, Eastern",4,"Ethnic Religions",84.5,NULL,NULL,0.047645,156000
+12350,"Jew, Eastern Yiddish-Speaking",US,"United States",ydd,"Yiddish, Eastern",4,"Ethnic Religions",NULL,NULL,NULL,0.047645,156000
+12350,"Jew, Eastern Yiddish-Speaking",US,"United States",ydd,"Yiddish, Eastern",5,Hinduism,0,NULL,NULL,0.047645,156000
+12350,"Jew, Eastern Yiddish-Speaking",US,"United States",ydd,"Yiddish, Eastern",6,Islam,0,NULL,NULL,0.047645,156000
+12350,"Jew, Eastern Yiddish-Speaking",US,"United States",ydd,"Yiddish, Eastern",7,Non-Religious,15,NULL,NULL,0.047645,156000
+12350,"Jew, Eastern Yiddish-Speaking",US,"United States",ydd,"Yiddish, Eastern",8,"Other / Small",0,NULL,NULL,0.047645,156000
+12350,"Jew, Eastern Yiddish-Speaking",US,"United States",ydd,"Yiddish, Eastern",9,Unknown,0,NULL,NULL,0.047645,156000
+15919,Afro-Caribbean,US,"United States",eng,English,1,Christianity,90,11,NULL,0.0471712,154000
+15919,Afro-Caribbean,US,"United States",eng,English,1,Christianity,90,NULL,NULL,0.0471712,154000
+15919,Afro-Caribbean,US,"United States",eng,English,2,Buddhism,0,NULL,NULL,0.0471712,154000
+15919,Afro-Caribbean,US,"United States",eng,English,3,"Doubly Professing",0,NULL,NULL,0.0471712,154000
+15919,Afro-Caribbean,US,"United States",eng,English,4,"Ethnic Religions",0,NULL,NULL,0.0471712,154000
+15919,Afro-Caribbean,US,"United States",eng,English,5,Hinduism,0,NULL,NULL,0.0471712,154000
+15919,Afro-Caribbean,US,"United States",eng,English,6,Islam,0,NULL,NULL,0.0471712,154000
+15919,Afro-Caribbean,US,"United States",eng,English,7,Non-Religious,10,NULL,NULL,0.0471712,154000
+15919,Afro-Caribbean,US,"United States",eng,English,8,"Other / Small",0,NULL,NULL,0.0471712,154000
+15919,Afro-Caribbean,US,"United States",eng,English,9,Unknown,0,NULL,NULL,0.0471712,154000
+14483,Punjabi,US,"United States",pan,"Punjabi, Eastern",1,Christianity,1,0.1,NULL,0.0460741,151000
+14483,Punjabi,US,"United States",pan,"Punjabi, Eastern",1,Christianity,10,NULL,NULL,0.0460741,151000
+14483,Punjabi,US,"United States",pan,"Punjabi, Eastern",2,Buddhism,0,NULL,NULL,0.0460741,151000
+14483,Punjabi,US,"United States",pan,"Punjabi, Eastern",3,"Doubly Professing",0,NULL,NULL,0.0460741,151000
+14483,Punjabi,US,"United States",pan,"Punjabi, Eastern",4,"Ethnic Religions",0,NULL,NULL,0.0460741,151000
+14483,Punjabi,US,"United States",pan,"Punjabi, Eastern",5,Hinduism,29.5,NULL,NULL,0.0460741,151000
+14483,Punjabi,US,"United States",pan,"Punjabi, Eastern",6,Islam,0.5,NULL,NULL,0.0460741,151000
+14483,Punjabi,US,"United States",pan,"Punjabi, Eastern",7,Non-Religious,0,NULL,NULL,0.0460741,151000
+14483,Punjabi,US,"United States",pan,"Punjabi, Eastern",8,"Other / Small",69,NULL,NULL,0.0460741,151000
+14483,Punjabi,US,"United States",pan,"Punjabi, Eastern",8,"Other / Small",NULL,NULL,NULL,0.0460741,151000
+14483,Punjabi,US,"United States",pan,"Punjabi, Eastern",9,Unknown,0,NULL,NULL,0.0460741,151000
+10421,"Argentinian, White",US,"United States",spa,Spanish,1,Christianity,94,11,NULL,0.044585,146000
+10421,"Argentinian, White",US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,0.044585,146000
+10421,"Argentinian, White",US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,0.044585,146000
+10421,"Argentinian, White",US,"United States",spa,Spanish,4,"Ethnic Religions",0,NULL,NULL,0.044585,146000
+10421,"Argentinian, White",US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,0.044585,146000
+10421,"Argentinian, White",US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,0.044585,146000
+10421,"Argentinian, White",US,"United States",spa,Spanish,7,Non-Religious,6,NULL,NULL,0.044585,146000
+10421,"Argentinian, White",US,"United States",spa,Spanish,8,"Other / Small",0,NULL,NULL,0.044585,146000
+10421,"Argentinian, White",US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,0.044585,146000
+11659,Dutch,US,"United States",nld,Dutch,1,Christianity,47,4.3,NULL,0.0431264,141000
+11659,Dutch,US,"United States",nld,Dutch,1,Christianity,81,NULL,NULL,0.0431264,141000
+11659,Dutch,US,"United States",nld,Dutch,2,Buddhism,0,NULL,NULL,0.0431264,141000
+11659,Dutch,US,"United States",nld,Dutch,3,"Doubly Professing",0,NULL,NULL,0.0431264,141000
+11659,Dutch,US,"United States",nld,Dutch,4,"Ethnic Religions",0,NULL,NULL,0.0431264,141000
+11659,Dutch,US,"United States",nld,Dutch,5,Hinduism,0,NULL,NULL,0.0431264,141000
+11659,Dutch,US,"United States",nld,Dutch,6,Islam,0,NULL,NULL,0.0431264,141000
+11659,Dutch,US,"United States",nld,Dutch,7,Non-Religious,53,NULL,NULL,0.0431264,141000
+11659,Dutch,US,"United States",nld,Dutch,8,"Other / Small",0,NULL,NULL,0.0431264,141000
+11659,Dutch,US,"United States",nld,Dutch,9,Unknown,0,NULL,NULL,0.0431264,141000
+10790,"South Asian, Bengali-Speaking",US,"United States",ben,Bengali,1,Christianity,1,0,NULL,0.0427959,140000
+10790,"South Asian, Bengali-Speaking",US,"United States",ben,Bengali,1,Christianity,0,0,NULL,0.0427959,140000
+10790,"South Asian, Bengali-Speaking",US,"United States",ben,Bengali,2,Buddhism,0,NULL,NULL,0.0427959,140000
+10790,"South Asian, Bengali-Speaking",US,"United States",ben,Bengali,3,"Doubly Professing",0,NULL,NULL,0.0427959,140000
+10790,"South Asian, Bengali-Speaking",US,"United States",ben,Bengali,4,"Ethnic Religions",0,NULL,NULL,0.0427959,140000
+10790,"South Asian, Bengali-Speaking",US,"United States",ben,Bengali,5,Hinduism,19,NULL,NULL,0.0427959,140000
+10790,"South Asian, Bengali-Speaking",US,"United States",ben,Bengali,6,Islam,80,NULL,NULL,0.0427959,140000
+10790,"South Asian, Bengali-Speaking",US,"United States",ben,Bengali,6,Islam,NULL,NULL,NULL,0.0427959,140000
+10790,"South Asian, Bengali-Speaking",US,"United States",ben,Bengali,7,Non-Religious,0,NULL,NULL,0.0427959,140000
+10790,"South Asian, Bengali-Speaking",US,"United States",ben,Bengali,8,"Other / Small",0,NULL,NULL,0.0427959,140000
+10790,"South Asian, Bengali-Speaking",US,"United States",ben,Bengali,9,Unknown,0,NULL,NULL,0.0427959,140000
+15696,Ukrainian,US,"United States",ukr,Ukrainian,1,Christianity,79,3.8,NULL,0.0421882,138000
+15696,Ukrainian,US,"United States",ukr,Ukrainian,1,Christianity,85,NULL,NULL,0.0421882,138000
+15696,Ukrainian,US,"United States",ukr,Ukrainian,2,Buddhism,0,NULL,NULL,0.0421882,138000
+15696,Ukrainian,US,"United States",ukr,Ukrainian,3,"Doubly Professing",0,NULL,NULL,0.0421882,138000
+15696,Ukrainian,US,"United States",ukr,Ukrainian,4,"Ethnic Religions",0,NULL,NULL,0.0421882,138000
+15696,Ukrainian,US,"United States",ukr,Ukrainian,5,Hinduism,0,NULL,NULL,0.0421882,138000
+15696,Ukrainian,US,"United States",ukr,Ukrainian,6,Islam,0,NULL,NULL,0.0421882,138000
+15696,Ukrainian,US,"United States",ukr,Ukrainian,7,Non-Religious,21,NULL,NULL,0.0421882,138000
+15696,Ukrainian,US,"United States",ukr,Ukrainian,8,"Other / Small",0,NULL,NULL,0.0421882,138000
+15696,Ukrainian,US,"United States",ukr,Ukrainian,9,Unknown,0,NULL,NULL,0.0421882,138000
+11335,Chilean,US,"United States",spa,Spanish,1,Christianity,90,8,NULL,0.040875,134000
+11335,Chilean,US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,0.040875,134000
+11335,Chilean,US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,0.040875,134000
+11335,Chilean,US,"United States",spa,Spanish,4,"Ethnic Religions",0,NULL,NULL,0.040875,134000
+11335,Chilean,US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,0.040875,134000
+11335,Chilean,US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,0.040875,134000
+11335,Chilean,US,"United States",spa,Spanish,7,Non-Religious,10,NULL,NULL,0.040875,134000
+11335,Chilean,US,"United States",spa,Spanish,8,"Other / Small",0,NULL,NULL,0.040875,134000
+11335,Chilean,US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,0.040875,134000
+11425,"Costa Rican",US,"United States",spa,Spanish,1,Christianity,96,15,NULL,0.0407489,133000
+11425,"Costa Rican",US,"United States",spa,Spanish,2,Buddhism,0,NULL,NULL,0.0407489,133000
+11425,"Costa Rican",US,"United States",spa,Spanish,3,"Doubly Professing",0,NULL,NULL,0.0407489,133000
+11425,"Costa Rican",US,"United States",spa,Spanish,4,"Ethnic Religions",0,NULL,NULL,0.0407489,133000
+11425,"Costa Rican",US,"United States",spa,Spanish,5,Hinduism,0,NULL,NULL,0.0407489,133000
+11425,"Costa Rican",US,"United States",spa,Spanish,6,Islam,0,NULL,NULL,0.0407489,133000
+11425,"Costa Rican",US,"United States",spa,Spanish,7,Non-Religious,4,NULL,NULL,0.0407489,133000
+11425,"Costa Rican",US,"United States",spa,Spanish,8,"Other / Small",0,NULL,NULL,0.0407489,133000
+11425,"Costa Rican",US,"United States",spa,Spanish,9,Unknown,0,NULL,NULL,0.0407489,133000
+10294,"Amhara, Ethiopian",US,"United States",amh,Amharic,1,Christianity,85,6,NULL,0.0403988,132000
+10294,"Amhara, Ethiopian",US,"United States",amh,Amharic,1,Christianity,77,25,NULL,0.0403988,132000
+10294,"Amhara, Ethiopian",US,"United States",amh,Amharic,2,Buddhism,0,NULL,NULL,0.0403988,132000
+10294,"Amhara, Ethiopian",US,"United States",amh,Amharic,3,"Doubly Professing",0,NULL,NULL,0.0403988,132000
+10294,"Amhara, Ethiopian",US,"United States",amh,Amharic,4,"Ethnic Religions",10,NULL,NULL,0.0403988,132000
+10294,"Amhara, Ethiopian",US,"United States",amh,Amharic,5,Hinduism,0,NULL,NULL,0.0403988,132000
+10294,"Amhara, Ethiopian",US,"United States",amh,Amharic,6,Islam,0,NULL,NULL,0.0403988,132000
+10294,"Amhara, Ethiopian",US,"United States",amh,Amharic,7,Non-Religious,5,NULL,NULL,0.0403988,132000
+10294,"Amhara, Ethiopian",US,"United States",amh,Amharic,8,"Other / Small",0,NULL,NULL,0.0403988,132000
+10294,"Amhara, Ethiopian",US,"United States",amh,Amharic,9,Unknown,0,NULL,NULL,0.0403988,132000
+10330,Anglo-Romani,US,"United States",rme,Angloromani,1,Christianity,75,10,NULL,0.0397458,130000
+10330,Anglo-Romani,US,"United States",rme,Angloromani,1,Christianity,80,10,NULL,0.0397458,130000
+10330,Anglo-Romani,US,"United States",rme,Angloromani,2,Buddhism,0,NULL,NULL,0.0397458,130000
+10330,Anglo-Romani,US,"United States",rme,Angloromani,3,"Doubly Professing",0,NULL,NULL,0.0397458,130000
+10330,Anglo-Romani,US,"United States",rme,Angloromani,4,"Ethnic Religions",0,NULL,NULL,0.0397458,130000
+10330,Anglo-Romani,US,"United States",rme,Angloromani,5,Hinduism,0,NULL,NULL,0.0397458,130000
+10330,Anglo-Romani,US,"United States",rme,Angloromani,6,Islam,0,NULL,NULL,0.0397458,130000
+10330,Anglo-Romani,US,"United States",rme,Angloromani,7,Non-Religious,25,NULL,NULL,0.0397458,130000
+10330,Anglo-Romani,US,"United States",rme,Angloromani,8,"Other / Small",0,NULL,NULL,0.0397458,130000
+10330,Anglo-Romani,US,"United States",rme,Angloromani,9,Unknown,0,NULL,NULL,0.0397458,130000
+11423,Corsican,US,"United States",cos,Corsican,1,Christianity,85,0.5,NULL,0.0396264,129000
+11423,Corsican,US,"United States",cos,Corsican,1,Christianity,87,NULL,NULL,0.0396264,129000
+11423,Corsican,US,"United States",cos,Corsican,2,Buddhism,0,NULL,NULL,0.0396264,129000
+11423,Corsican,US,"United States",cos,Corsican,3,"Doubly Professing",0,NULL,NULL,0.0396264,129000
+11423,Corsican,US,"United States",cos,Corsican,4,"Ethnic Religions",0,NULL,NULL,0.0396264,129000
+11423,Corsican,US,"United States",cos,Corsican,5,Hinduism,0,NULL,NULL,0.0396264,129000
+11423,Corsican,US,"United States",cos,Corsican,6,Islam,0,NULL,NULL,0.0396264,129000
+11423,Corsican,US,"United States",cos,Corsican,7,Non-Religious,15,NULL,NULL,0.0396264,129000
+11423,Corsican,US,"United States",cos,Corsican,8,"Other / Small",0,NULL,NULL,0.0396264,129000
+11423,Corsican,US,"United States",cos,Corsican,9,Unknown,0,NULL,NULL,0.0396264,129000
+14571,Romanian,US,"United States",ron,Romanian,1,Christianity,97,5.4,NULL,0.0373847,122000
+14571,Romanian,US,"United States",ron,Romanian,1,Christianity,83,NULL,NULL,0.0373847,122000
+14571,Romanian,US,"United States",ron,Romanian,2,Buddhism,0,NULL,NULL,0.0373847,122000
+14571,Romanian,US,"United States",ron,Romanian,3,"Doubly Professing",0,NULL,NULL,0.0373847,122000
+14571,Romanian,US,"United States",ron,Romanian,4,"Ethnic Religions",0,NULL,NULL,0.0373847,122000
+14571,Romanian,US,"United States",ron,Romanian,5,Hinduism,0,NULL,NULL,0.0373847,122000
+14571,Romanian,US,"United States",ron,Romanian,6,Islam,0,NULL,NULL,0.0373847,122000
+14571,Romanian,US,"United States",ron,Romanian,7,Non-Religious,3,NULL,NULL,0.0373847,122000
+14571,Romanian,US,"United States",ron,Romanian,8,"Other / Small",0,NULL,NULL,0.0373847,122000
+14571,Romanian,US,"United States",ron,Romanian,9,Unknown,0,NULL,NULL,0.0373847,122000
+14676,Samoan,US,"United States",smo,Samoan,1,Christianity,97,18,NULL,0.0363002,119000
+14676,Samoan,US,"United States",smo,Samoan,1,Christianity,99,NULL,NULL,0.0363002,119000
+14676,Samoan,US,"United States",smo,Samoan,2,Buddhism,0,NULL,NULL,0.0363002,119000
+14676,Samoan,US,"United States",smo,Samoan,3,"Doubly Professing",0,NULL,NULL,0.0363002,119000
+14676,Samoan,US,"United States",smo,Samoan,4,"Ethnic Religions",0,NULL,NULL,0.0363002,119000
+14676,Samoan,US,"United States",smo,Samoan,5,Hinduism,0,NULL,NULL,0.0363002,119000
+14676,Samoan,US,"United States",smo,Samoan,6,Islam,0,NULL,NULL,0.0363002,119000
+14676,Samoan,US,"United States",smo,Samoan,7,Non-Religious,1,NULL,NULL,0.0363002,119000
+14676,Samoan,US,"United States",smo,Samoan,8,"Other / Small",2,NULL,NULL,0.0363002,119000
+14676,Samoan,US,"United States",smo,Samoan,9,Unknown,0,NULL,NULL,0.0363002,119000
+11477,Dakota,US,"United States",dak,Dakota,1,Christianity,60,6,NULL,0.0361242,118000
+11477,Dakota,US,"United States",dak,Dakota,1,Christianity,82,NULL,NULL,0.0361242,118000
+11477,Dakota,US,"United States",dak,Dakota,2,Buddhism,0,NULL,NULL,0.0361242,118000
+11477,Dakota,US,"United States",dak,Dakota,3,"Doubly Professing",0,NULL,NULL,0.0361242,118000
+11477,Dakota,US,"United States",dak,Dakota,4,"Ethnic Religions",30,NULL,NULL,0.0361242,118000
+11477,Dakota,US,"United States",dak,Dakota,5,Hinduism,0,NULL,NULL,0.0361242,118000
+11477,Dakota,US,"United States",dak,Dakota,6,Islam,0,NULL,NULL,0.0361242,118000
+11477,Dakota,US,"United States",dak,Dakota,7,Non-Religious,10,NULL,NULL,0.0361242,118000
+11477,Dakota,US,"United States",dak,Dakota,8,"Other / Small",0,NULL,NULL,0.0361242,118000
+11477,Dakota,US,"United States",dak,Dakota,9,Unknown,0,NULL,NULL,0.0361242,118000
+19577,Chippewa,US,"United States",ciw,Chippewa,1,Christianity,60,4,NULL,0.0360474,118000
+19577,Chippewa,US,"United States",ciw,Chippewa,1,Christianity,98,NULL,NULL,0.0360474,118000
+19577,Chippewa,US,"United States",ciw,Chippewa,2,Buddhism,0,NULL,NULL,0.0360474,118000
+19577,Chippewa,US,"United States",ciw,Chippewa,3,"Doubly Professing",0,NULL,NULL,0.0360474,118000
+19577,Chippewa,US,"United States",ciw,Chippewa,4,"Ethnic Religions",25,NULL,NULL,0.0360474,118000
+19577,Chippewa,US,"United States",ciw,Chippewa,5,Hinduism,0,NULL,NULL,0.0360474,118000
+19577,Chippewa,US,"United States",ciw,Chippewa,6,Islam,0,NULL,NULL,0.0360474,118000

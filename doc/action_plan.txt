@@ -1,0 +1,29 @@
+- got MDB into MySQL on Mac using home-brew and script in src/SQL
+- DB Codes: (from Doc)
+
+	- RLG3	Religion code
+
+	- ROG2	Continent code
+	- ROG3	Country code
+	- ROG4	State / Province code
+	- ROG5	District code
+
+	- ROL3	Language code
+	- ROL4	Dialect code
+
+	- ROP1	Registry of Peoples - Affinity Bloc ID
+	- ROP2	Registry of Peoples - People Cluster ID
+	- ROP3	Registry of Peoples - People Group ID
+
+	- PeopleID1	Affinity Bloc code
+	- PeopleID2	People Cluster code
+	- PeopleID3	People group code
+
+	- RLG3Primary	Code for primary Religion for this country
+	- ROL3OfficialLanguage	Code for official language for this country
+	- WorkersNeeded	Estimated workers needed based on 1:50,000
+	- Language	Language name
+	- LanguageDialect	Dialect name
+	- LanguageRank	P = Primary, S = Secondary
+	- IndigenousCode	Is this group indigenous to this country
+

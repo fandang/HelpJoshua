@@ -1,0 +1,36 @@
+---
+title: "Joshua"
+author: "Dan Fanelli"
+date: "4/1/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Joshua
+
+```{r warning=FALSE, message=FALSE}
+library(knitr)
+library(sqldf)
+
+countries <- read.csv(file="../../data/AllCountries.csv", skip = 2, header=TRUE, sep=",")
+kable(head(countries))
+
+languages <- read.csv(file="../../data/AllLanguageListing.csv", skip = 2, header=TRUE, sep=",")
+kable(head(languages))
+
+people_x_country <- read.csv(file="../../data/AllPeoplesByCountry.csv", skip = 2, header=TRUE, sep=",")
+kable(head(people_x_country))
+
+people_country_language <- read.csv(file="../../data/PeopleCtryLangListing.csv", skip = 2, header=TRUE, sep=",")
+kable(head(people_country_language))
+
+unreachablePeopsByCountry <- read.csv(file="../../data/UnreachedPeoplesByCountry.csv", skip = 2, header=TRUE, sep=",")
+kable(head(unreachablePeopsByCountry))
+
+sqldf("select count(*) from languages")
+
+```
+

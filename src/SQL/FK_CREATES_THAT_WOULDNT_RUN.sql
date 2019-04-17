@@ -1,0 +1,18 @@
+
+ALTER TABLE tblGEO2SubRegionsUN ADD FOREIGN KEY fk_tblGEO3Countries(UNSR) REFERENCES tblGEO3Countries(UNSR);
+ALTER TABLE tblRLG3Religions ADD FOREIGN KEY fk_tblGEO3Countries(RLG3) REFERENCES tblGEO3Countries(RLG3);
+ALTER TABLE tblPEO3PeopleGroups ADD FOREIGN KEY fk_tblLNG3Languages(LargeSouthAsianLanguageROL3) REFERENCES tblLNG3Languages(LargeSouthAsianLanguageROL3);
+ALTER TABLE tblLNG3Languages ADD FOREIGN KEY fk_tbllnkLNGtoPEOGEO(ROL3) REFERENCES tbllnkLNGtoPEOGEO(ROL3);
+ALTER TABLE tblGEO3Countries ADD FOREIGN KEY fk_tblLnkPEOtoGEO(ROG3) REFERENCES tblLnkPEOtoGEO(ROG3);
+ALTER TABLE tblPEO3PeopleGroups ADD FOREIGN KEY fk_tblLnkPEOtoGEO(PeopleID3) REFERENCES tblLnkPEOtoGEO(PeopleID3);
+ALTER TABLE tblRLG3Religions ADD FOREIGN KEY fk_tblLnkPEOtoGEOReligions(RLG3) REFERENCES tblLnkPEOtoGEOReligions(RLG3);
+ALTER TABLE tblLnkPEOtoGEOReligions ADD FOREIGN KEY fk_tblLnkPEOtoGEOReligionSubdivision(PeopleID3,ROG3,RLG3,Version) REFERENCES tblLnkPEOtoGEOReligionSubdivision(PeopleID3,ROG3,RLG3,Version);
+ALTER TABLE tblLNG3Languages ADD FOREIGN KEY fk_tblPEO3PeopleGroups(ROL3) REFERENCES tblPEO3PeopleGroups(ROL3);
+ALTER TABLE tblPEO2PeopleClusters ADD FOREIGN KEY fk_tblPEO3PeopleGroups(PeopleID2) REFERENCES tblPEO3PeopleGroups(PeopleID2);
+ALTER TABLE tblLNG3Languages ADD FOREIGN KEY fk_tblPEO4SubGroups(ROL3) REFERENCES tblPEO4SubGroups(ROL3);
+ALTER TABLE tblLnkPEOtoGEO ADD FOREIGN KEY fk_tblPEO4SubGroups(PeopleID3,ROG3) REFERENCES tblPEO4SubGroups(PeopleID3,ROG3);
+ALTER TABLE tblRLG3Religions ADD FOREIGN KEY fk_tblPEO4SubGroups(RLG3) REFERENCES tblPEO4SubGroups(RLG3);
+ALTER TABLE tblRLG4ReligionSubdivisions ADD FOREIGN KEY fk_tblRLG3Religions(RLG3) REFERENCES tblRLG3Religions(RLG3);
+ALTER TABLE tblGEO3Countries ADD FOREIGN KEY fk_tblRLG3Religions(RLG3Primary) REFERENCES tblRLG3Religions(RLG3Primary);
+ALTER TABLE tblGEO3Countries ADD FOREIGN KEY fk_tblRLG4ReligionSubdivisions(RLG4Primary) REFERENCES tblRLG4ReligionSubdivisions(RLG4Primary);
+ALTER TABLE tblRLG3Religions ADD FOREIGN KEY fk_tblRLG4ReligionSubdivisions(RLG3) REFERENCES tblRLG4ReligionSubdivisions(RLG3);
