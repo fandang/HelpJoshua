@@ -18,6 +18,7 @@
 	<h1 id="title"></h1>
 
 	<div id="mapid"></div>
+	<div id="loadStatus"></div>
 
 	<input type="text" name="country" />
 	<input type="button" id="peopleGroupsForCountryBtnID" value="Show People Groups for Country" onclick="btnClicked();" />
@@ -36,15 +37,16 @@
 			alert('hi there');
 		}	
 
-		var mymap = L.map('mapid').setView([51.505, -0.09], 5);
+		// Jerusalem = 31.7683° N, 35.2137° E
+		// 3 shows whole globe, 5 shows basic isreal area
+		var mymap = L.map('mapid').setView([31.768, 35.213], 4);
 
 		L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
 			zoom: 3,
 		    id: 'mapbox.streets',
 		    accessToken: 'pk.eyJ1IjoiZmFuZGFuZyIsImEiOiJjanVqb2djdTExbXVjNGRscHZ3bG96MjN1In0.zwEdHnMUKwzo9tJD31ZOBQ'
 		}).addTo(mymap);
-
-		var marker = L.marker([51.5, -0.09]).addTo(mymap);
+/*
 		var circle = L.circle([51.508, -0.11], {
 		    color: 'red',
 		    fillColor: '#f03',
@@ -57,7 +59,7 @@
 		    [51.503, -0.06],
 		    [51.51, -0.047]
 		]).addTo(mymap);
-	
+*/	
 		//------------------
 		//var csvURL = "AllPeoplesByCountry.csv";
 		var csvURL = "UnreachedPeoplesByCountry.csv";
@@ -69,12 +71,12 @@
 			// Parse CSV string
 			var response = Papa.parse(csv, { header: true });
 			//console.log(response);
-
 			for(var i = 0; i < response['data'].length; i++) {
+				document.getElementById("loadStatus").innerHTML = "Loading Group " + i + " of " + response['data'].length;
 				var country = response['data'][i].Ctry;
 				var people = response['data'][i].PeopNameAcrossCountries;
 				var population = response['data'][i].Population;
-				var primaryReligion = response['data'][i].PrimaryLanguageName;
+				var primaryReligion = response['data'][i].PrimaryReligion;
 				var bibleStatus = response['data'][i].BibleStatus;
 				var pctAdherents = response['data'][i].PercentAdherents;
 				//,RLG3,PrimaryReligion,PercentAdherents,PercentEvangelical,PeopleID1,ROP1,AffinityBloc,PeopleID2,ROP2,PeopleCluster,CountOfCountries,RegionCode,RegionName,ROG2,Continent,10_40Window,IndigenousCode,WorkersNeeded,Frontier,Latitude,Longitude
@@ -83,6 +85,14 @@
 				var lon = response['data'][i].Longitude;
 				console.log(country + ': ' + people + ' @ ' + lat + "," + lon);
 				var marker = L.marker([lat, lon]).addTo(mymap).bindPopup("Country: " + country + "<br/> People: " + people + "<br/ >Population: " + population + "<br/ >Primary Religion: " + primaryReligion + "<br/ >Bible Status: " + bibleStatus + "<br/ >PercentAdherents: " + pctAdherents);
+				
+				var newwidth = 15;
+				var newheight = 20;
+				var icon = marker.options.icon;
+				icon.options.iconSize = [newwidth, newheight];
+				marker.setIcon(icon);
+
+				setTimeout(null, 1000);
 			}
 			console.log('successFunc: DONE');
 			// Stream big file in worker thread
